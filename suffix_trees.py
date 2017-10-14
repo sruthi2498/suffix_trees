@@ -137,9 +137,9 @@ class SuffixTree(object):
 					print("path",path)
 					nodes.append(v)
 					print("nodes",nodes)
-					string=string[s+1:]
+					string=string[s:]
 					print("new string",string)
-					if(len(string)>0):
+					if(len(string)>0 and string!='$'):
 						return self.Search2(string,v,path,nodes,size+s)
 					else:
 						return (nodes,size+s,path,1)
@@ -173,14 +173,14 @@ class SuffixTree(object):
 		if( len(nod)==0 or f==0):
 			if (new_string[i+1:len(new_string)] !='$'):
 				self.AllMatches(new_string[i+1:len(new_string)],nodes,path,size,allM)
-		if(len(nod)>0):
-			first_node=nod[0]
-			last_node=nod[len(nod)-1]
-			#print("last",last_node)
-			start=first_node[0]
-			end=last_node[1]
-
-			x=self.PrintAllPaths(last_node)
+		else:
+			allM=sorted(allM,key=lambda x: x[1],reverse=True)
+			print allM
+			for (nod,s,p) in allM:
+				print "ranked s",s,"nodes",nod
+				if(len(nod)>0):
+					last_node=nod[len(nod)-1]
+					x=self.PrintAllPaths(last_node)
 
 
 	def PrintAllPaths(self,s):
@@ -232,7 +232,7 @@ class SuffixTree(object):
 		#matched_with=p.replace('|','..')
 		matched_with=p
 		matched_with=matched_with.replace('$',' ')
-		#OpenDocLine(doc_num,line_num,matched_with)
+		OpenDocLine(doc_num,line_num,matched_with)
 		return 1
 
 	def DisplayChildren(self,r):
