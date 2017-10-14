@@ -1,0 +1,9 @@
+151|0|a$prince$had$some$monkeys$trained$to$dance.
+151|1|being$naturally$great$mimics$of$men's$actions,$they$showed$themselves$most$apt$pupils,$and$when$arrayed$in$their$rich$clothes$and$masks,$they$danced$as$well$as$any$of$the$courtiers.
+151|2|the$spectacle$was$often$repeated$with$great$applause,$till$on$one$occasion$a$courtier,$bent$on$mischief,$took$from$his$pocket$a$handful$of$nuts$and$threw$them$upon$the$stage.
+151|3|the$monkeys$at$the$sight$of$the$nuts$forgot$their$dancing$and$became$(as$indeed$they$were)$monkeys$instead$of$actors.
+151|4|pulling$off$their$masks$and$tearing$their$robes,$they$fought$with$one$another$for$the$nuts.
+151|5|the$dancing$spectacle$thus$came$to$an$end$amidst$the$laughter$and$ridicule$of$the$audience.
+151|6|the$fox$and$the$leopard$the$fox$and$the$leopard$disputed$which$was$the$more$beautiful$of$the$two.
+151|7|the$leopard$exhibited$one$by$one$the$various$spots$which$decorated$his$skin.
+151|8|but$the$fox,$interrupting$him,$said,$"and$how$much$more$beautiful$than$you$am$i,$who$am$decorated,$not$in$body,$but$in$mind."

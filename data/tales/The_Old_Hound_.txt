@@ -1,0 +1,6 @@
+120|0|a$hound,$who$in$the$days$of$his$youth$and$strength$had$never$yielded$to$any$beast$of$the$forest,$encountered$in$his$old$age$a$boar$in$the$chase.
+120|1|he$seized$him$boldly$by$the$ear,$but$could$not$retain$his$hold$because$of$the$decay$of$his$teeth,$so$that$the$boar$escaped.
+120|2|his$master,$quickly$coming$up,$was$very$much$disappointed,$and$fiercely$abused$the$dog.
+120|3|the$hound$looked$up$and$said,$"it$was$not$my$fault.
+120|4|master:$$my$spirit$was$as$good$as$ever,$but$i$could$not$help$my$infirmities.
+120|5|i$rather$deserve$to$be$praised$for$what$i$have$been,$than$to$be$blamed$for$what$i$am."

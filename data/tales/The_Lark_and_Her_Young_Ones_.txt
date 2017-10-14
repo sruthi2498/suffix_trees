@@ -1,0 +1,8 @@
+198|0|a$lark$had$made$her$nest$in$the$early$spring$on$the$young$green$wheat.
+198|1|the$brood$had$almost$grown$to$their$full$strength$and$attained$the$use$of$their$wings$and$the$full$plumage$of$their$feathers,$when$the$owner$of$the$field,$looking$over$his$ripe$crop,$said,$"the$time$has$come$when$i$must$ask$all$my$neighbors$to$help$me$with$my$harvest."
+198|2|one$of$the$young$larks$heard$his$speech$and$related$it$to$his$mother,$inquiring$of$her$to$what$place$they$should$move$for$safety.
+198|3|"there$is$no$occasion$to$move$yet,$my$son,"$she$replied;$"the$man$who$only$sends$to$his$friends$to$help$him$with$his$harvest$is$not$really$in$earnest."
+198|4|the$owner$of$the$field$came$again$a$few$days$later$and$saw$the$wheat$shedding$the$grain$from$excess$of$ripeness.
+198|5|he$said,$"i$will$come$myself$tomorrow$with$my$laborers,$and$with$as$many$reapers$as$i$can$hire,$and$will$get$in$the$harvest."
+198|6|the$lark$on$hearing$these$words$said$to$her$brood,$"it$is$time$now$to$be$off,$my$little$ones,$for$the$man$is$in$earnest$this$time;$he$no$longer$trusts$his$friends,$but$will$reap$the$field$himself."
+198|7|self-help$is$the$best$help.

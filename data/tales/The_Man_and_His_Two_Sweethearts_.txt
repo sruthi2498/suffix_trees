@@ -1,0 +1,6 @@
+62|0|a$middle-aged$man,$whose$hair$had$begun$to$turn$gray,$courted$two$women$at$the$same$time.
+62|1|one$of$them$was$young,$and$the$other$well$advanced$in$years.
+62|2|the$elder$woman,$ashamed$to$be$courted$by$a$man$younger$than$herself,$made$a$point,$whenever$her$admirer$visited$her,$to$pull$out$some$portion$of$his$black$hairs.
+62|3|the$younger,$on$the$contrary,$not$wishing$to$become$the$wife$of$an$old$man,$was$equally$zealous$in$removing$every$gray$hair$she$could$find.
+62|4|thus$it$came$to$pass$that$between$them$both$he$very$soon$found$that$he$had$not$a$hair$left$on$his$head.
+62|5|those$who$seek$to$please$everybody$please$nobody.

@@ -1,0 +1,5 @@
+47|0|a$lion$demanded$the$daughter$of$a$woodcutter$in$marriage.
+47|1|the$father,$unwilling$to$grant,$and$yet$afraid$to$refuse$his$request,$hit$upon$this$expedient$to$rid$himself$of$his$importunities.
+47|2|he$expressed$his$willingness$to$accept$the$lion$as$the$suitor$of$his$daughter$on$one$condition:$$that$he$should$allow$him$to$extract$his$teeth,$and$cut$off$his$claws,$as$his$daughter$was$fearfully$afraid$of$both.
+47|3|the$lion$cheerfully$assented$to$the$proposal.
+47|4|but$when$the$toothless,$clawless$lion$returned$to$repeat$his$request,$the$woodman,$no$longer$afraid,$set$upon$him$with$his$club,$and$drove$him$away$into$the$forest.

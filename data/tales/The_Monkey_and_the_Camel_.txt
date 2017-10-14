@@ -1,0 +1,5 @@
+261|0|the$beasts$of$the$forest$gave$a$splendid$entertainment$at$which$the$monkey$stood$up$and$danced.
+261|1|having$vastly$delighted$the$assembly,$he$sat$down$amidst$universal$applause.
+261|2|the$camel,$envious$of$the$praises$bestowed$on$the$monkey$and$desiring$to$divert$to$himself$the$favor$of$the$guests,$proposed$to$stand$up$in$his$turn$and$dance$for$their$amusement.
+261|3|he$moved$about$in$so$utterly$ridiculous$a$manner$that$the$beasts,$in$a$fit$of$indignation,$set$upon$him$with$clubs$and$drove$him$out$of$the$assembly.
+261|4|it$is$absurd$to$ape$our$betters.

@@ -1,0 +1,5 @@
+9|0|the$beasts$of$the$field$and$forest$had$a$lion$as$their$king.
+9|1|he$was$neither$wrathful,$cruel,$nor$tyrannical,$but$just$and$gentle$as$a$king$could$be.
+9|2|during$his$reign$he$made$a$royal$proclamation$for$a$general$assembly$of$all$the$birds$and$beasts,$and$drew$up$conditions$for$a$universal$league,$in$which$the$wolf$and$the$lamb,$the$panther$and$the$kid,$the$tiger$and$the$stag,$the$dog$and$the$hare,$should$live$together$in$perfect$peace$and$amity.
+9|3|the$hare$said,$"oh,$how$i$have$longed$to$see$this$day,$in$which$the$weak$shall$take$their$place$with$impunity$by$the$side$of$the$strong."
+9|4|and$after$the$hare$said$this,$he$ran$for$his$life.

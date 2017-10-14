@@ -1,0 +1,5 @@
+88|0|a$man$who$had$been$bitten$by$a$dog$went$about$in$quest$of$someone$who$might$heal$him.
+88|1|a$friend,$meeting$him$and$learning$what$he$wanted,$said,$"if$you$would$be$cured,$take$a$piece$of$bread,$and$dip$it$in$the$blood$from$your$wound,$and$go$and$give$it$to$the$dog$that$bit$you."
+88|2|the$man$who$had$been$bitten$laughed$at$this$advice$and$said,$"why?
+88|3|if$i$should$do$so,$it$would$be$as$if$i$should$beg$every$dog$in$the$town$to$bite$me."
+88|4|benefits$bestowed$upon$the$evil-disposed$increase$their$means$of$injuring$you.

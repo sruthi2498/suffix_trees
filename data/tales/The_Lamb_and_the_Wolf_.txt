@@ -1,0 +1,3 @@
+291|0|a$wolf$pursued$a$lamb,$which$fled$for$refuge$to$a$certain$temple.
+291|1|the$wolf$called$out$to$him$and$said,$"the$priest$will$slay$you$in$sacrifice,$if$he$should$catch$you."
+291|2|on$which$the$lamb$replied,$"it$would$be$better$for$me$to$be$sacrificed$in$the$temple$than$to$be$eaten$by$you."

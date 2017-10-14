@@ -1,0 +1,3 @@
+167|0|a$woman$possessed$a$hen$that$gave$her$an$egg$every$day.
+167|1|she$often$pondered$how$she$might$obtain$two$eggs$daily$instead$of$one,$and$at$last,$to$gain$her$purpose,$determined$to$give$the$hen$a$double$allowance$of$barley.
+167|2|from$that$day$the$hen$became$fat$and$sleek,$and$never$once$laid$another$egg.

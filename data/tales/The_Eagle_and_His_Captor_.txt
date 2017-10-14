@@ -1,0 +1,4 @@
+300|0|an$eagle$was$once$captured$by$a$man,$who$immediately$clipped$his$wings$and$put$him$into$his$poultry-yard$with$the$other$birds,$at$which$treatment$the$eagle$was$weighed$down$with$grief.
+300|1|later,$another$neighbor$purchased$him$and$allowed$his$feathers$to$grow$again.
+300|2|the$eagle$took$flight,$and$pouncing$upon$a$hare,$brought$it$at$once$as$an$offering$to$his$benefactor.
+300|3|a$fox,$seeing$this,$exclaimed,$"do$not$cultivate$the$favor$of$this$man,$but$of$your$former$owner,$lest$he$should$again$hunt$for$you$and$deprive$you$a$second$time$of$your$wings."

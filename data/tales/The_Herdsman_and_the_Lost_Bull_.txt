@@ -1,0 +1,4 @@
+17|0|a$herdsman$tending$his$flock$in$a$forest$lost$a$bull-calf$from$the$fold.
+17|1|after$a$long$and$fruitless$search,$he$made$a$vow$that,$if$he$could$only$discover$the$thief$who$had$stolen$the$calf,$he$would$offer$a$lamb$in$sacrifice$to$hermes,$pan,$and$the$guardian$deities$of$the$forest.
+17|2|not$long$afterwards,$as$he$ascended$a$small$hillock,$he$saw$at$its$foot$a$lion$feeding$on$the$calf.
+17|3|terrified$at$the$sight,$he$lifted$his$eyes$and$his$hands$to$heaven,$and$said:$$"just$now$i$vowed$to$offer$a$lamb$to$the$guardian$deities$of$the$forest$if$i$could$only$find$out$who$had$robbed$me;$but$now$that$i$have$discovered$the$thief,$i$would$willingly$add$a$full-grown$bull$to$the$calf$i$have$lost,$if$i$may$only$secure$my$own$escape$from$him$in$safety."

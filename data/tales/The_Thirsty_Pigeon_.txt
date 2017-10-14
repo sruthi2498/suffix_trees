@@ -1,0 +1,4 @@
+35|0|a$pigeon,$oppressed$by$excessive$thirst,$saw$a$goblet$of$water$painted$on$a$signboard.
+35|1|not$supposing$it$to$be$only$a$picture,$she$flew$towards$it$with$a$loud$whir$and$unwittingly$dashed$against$the$signboard,$jarring$herself$terribly.
+35|2|having$broken$her$wings$by$the$blow,$she$fell$to$the$ground,$and$was$caught$by$one$of$the$bystanders.
+35|3|zeal$should$not$outrun$discretion.

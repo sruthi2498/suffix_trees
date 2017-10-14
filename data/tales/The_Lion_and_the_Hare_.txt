@@ -1,0 +1,5 @@
+147|0|a$lion$came$across$a$hare,$who$was$fast$asleep.
+147|1|he$was$just$in$the$act$of$seizing$her,$when$a$fine$young$hart$trotted$by,$and$he$left$the$hare$to$follow$him.
+147|2|the$hare,$scared$by$the$noise,$awoke$and$scudded$away.
+147|3|the$lion$was$unable$after$a$long$chase$to$catch$the$hart,$and$returned$to$feed$upon$the$hare.
+147|4|on$finding$that$the$hare$also$had$run$off,$he$said,$"i$am$rightly$served,$for$having$let$go$of$the$food$that$i$had$in$my$hand$for$the$chance$of$obtaining$more."

@@ -1,0 +1,5 @@
+185|0|a$crow$perishing$with$thirst$saw$a$pitcher,$and$hoping$to$find$water,$flew$to$it$with$delight.
+185|1|when$he$reached$it,$he$discovered$to$his$grief$that$it$contained$so$little$water$that$he$could$not$possibly$get$at$it.
+185|2|he$tried$everything$he$could$think$of$to$reach$the$water,$but$all$his$efforts$were$in$vain.
+185|3|at$last$he$collected$as$many$stones$as$he$could$carry$and$dropped$them$one$by$one$with$his$beak$into$the$pitcher,$until$he$brought$the$water$within$his$reach$and$thus$saved$his$life.
+185|4|necessity$is$the$mother$of$invention.

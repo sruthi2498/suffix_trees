@@ -1,0 +1,6 @@
+227|0|the$wasps$and$the$partridges,$overcome$with$thirst,$came$to$a$farmer$and$besought$him$to$give$them$some$water$to$drink.
+227|1|they$promised$amply$to$repay$him$the$favor$which$they$asked.
+227|2|the$partridges$declared$that$they$would$dig$around$his$vines$and$make$them$produce$finer$grapes.
+227|3|the$wasps$said$that$they$would$keep$guard$and$drive$off$thieves$with$their$stings.
+227|4|but$the$farmer$interrupted$them,$saying:$$"i$have$already$two$oxen,$who,$without$making$any$promises,$do$all$these$things.
+227|5|it$is$surely$better$for$me$to$give$the$water$to$them$than$to$you."

@@ -1,0 +1,6 @@
+59|0|a$dog$used$to$run$up$quietly$to$the$heels$of$everyone$he$met,$and$to$bite$them$without$notice.
+59|1|his$master$suspended$a$bell$about$his$neck$so$that$the$dog$might$give$notice$of$his$presence$wherever$he$went.
+59|2|thinking$it$a$mark$of$distinction,$the$dog$grew$proud$of$his$bell$and$went$tinkling$it$all$over$the$marketplace.
+59|3|one$day$an$old$hound$said$to$him:$$why$do$you$make$such$an$exhibition$of$yourself?
+59|4|that$bell$that$you$carry$is$not,$believe$me,$any$order$of$merit,$but$on$the$contrary$a$mark$of$disgrace,$a$public$notice$to$all$men$to$avoid$you$as$an$ill$mannered$dog."
+59|5|notoriety$is$often$mistaken$for$fame.

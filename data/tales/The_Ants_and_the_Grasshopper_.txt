@@ -1,0 +1,6 @@
+13|0|the$ants$were$spending$a$fine$winter's$day$drying$grain$collected$in$the$summertime.
+13|1|a$grasshopper,$perishing$with$famine,$passed$by$and$earnestly$begged$for$a$little$food.
+13|2|the$ants$inquired$of$him,$"why$did$you$not$treasure$up$food$during$the$summer?'
+13|3|he$replied,$"i$had$not$leisure$enough.
+13|4|i$passed$the$days$in$singing."
+13|5|they$then$said$in$derision:$$"if$you$were$foolish$enough$to$sing$all$the$summer,$you$must$dance$supperless$to$bed$in$the$winter."

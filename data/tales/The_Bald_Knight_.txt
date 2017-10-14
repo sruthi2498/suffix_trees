@@ -1,0 +1,3 @@
+156|0|a$bald$knight,$who$wore$a$wig,$went$out$to$hunt.
+156|1|a$sudden$puff$of$wind$blew$off$his$hat$and$wig,$at$which$a$loud$laugh$rang$forth$from$his$companions.
+156|2|he$pulled$up$his$horse,$and$with$great$glee$joined$in$the$joke$by$saying,$"what$a$marvel$it$is$that$hairs$which$are$not$mine$should$fly$from$me,$when$they$have$forsaken$even$the$man$on$whose$head$they$grew."

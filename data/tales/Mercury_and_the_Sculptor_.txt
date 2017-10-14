@@ -1,0 +1,4 @@
+132|0|mercury$once$determined$to$learn$in$what$esteem$he$was$held$among$mortals.
+132|1|for$this$purpose$he$assumed$the$character$of$a$man$and$visited$in$this$disguise$a$sculptor's$studio$having$looked$at$various$statues,$he$demanded$the$price$of$two$figures$of$jupiter$and$juno.
+132|2|when$the$sum$at$which$they$were$valued$was$named,$he$pointed$to$a$figure$of$himself,$saying$to$the$sculptor,$"you$will$certainly$want$much$more$for$this,$as$it$is$the$statue$of$the$messenger$of$the$gods,$and$author$of$all$your$gain."
+132|3|the$sculptor$replied,$"well,$if$you$will$buy$these,$i'll$fling$you$that$into$the$bargain."

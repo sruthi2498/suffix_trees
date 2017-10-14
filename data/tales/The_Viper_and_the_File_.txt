@@ -1,0 +1,3 @@
+295|0|a$lion,$entering$the$workshop$of$a$smith,$sought$from$the$tools$the$means$of$satisfying$his$hunger.
+295|1|he$more$particularly$addressed$himself$to$a$file,$and$asked$of$him$the$favor$of$a$meal.
+295|2|the$file$replied,$"you$must$indeed$be$a$simple-minded$fellow$if$you$expect$to$get$anything$from$me,$who$am$accustomed$to$take$from$everyone,$and$never$to$give$anything$in$return."

@@ -1,0 +1,3 @@
+302|0|the$olive-tree$ridiculed$the$fig-tree$because,$while$she$was$green$all$the$year$round,$the$fig-tree$changed$its$leaves$with$the$seasons.
+302|1|a$shower$of$snow$fell$upon$them,$and,$finding$the$olive$full$of$foliage,$it$settled$upon$its$branches$and$broke$them$down$with$its$weight,$at$once$despoiling$it$of$its$beauty$and$killing$the$tree.
+302|2|but$finding$the$fig-tree$denuded$of$leaves,$the$snow$fell$through$to$the$ground,$and$did$not$injure$it$at$all.

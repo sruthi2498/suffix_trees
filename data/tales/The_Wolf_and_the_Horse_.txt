@@ -1,0 +1,4 @@
+225|0|a$wolf$coming$out$of$a$field$of$oats$met$a$horse$and$thus$addressed$him:$$"i$would$advise$you$to$go$into$that$field.
+225|1|it$is$full$of$fine$oats,$which$i$have$left$untouched$for$you,$as$you$are$a$friend$whom$i$would$love$to$hear$enjoying$good$eating."
+225|2|the$horse$replied,$"if$oats$had$been$the$food$of$wolves,$you$would$never$have$indulged$your$ears$at$the$cost$of$your$belly."
+225|3|men$of$evil$reputation,$when$they$perform$a$good$deed,$fail$to$get$credit$for$it.

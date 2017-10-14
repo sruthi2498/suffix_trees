@@ -1,0 +1,6 @@
+128|0|a$fisherman$who$lived$on$the$produce$of$his$nets,$one$day$caught$a$single$small$fish$as$the$result$of$his$day's$labor.
+128|1|the$fish,$panting$convulsively,$thus$entreated$for$his$life:$$"o$sir,$what$good$can$i$be$to$you,$and$how$little$am$i$worth?
+128|2|i$am$not$yet$come$to$my$full$size.
+128|3|pray$spare$my$life,$and$put$me$back$into$the$sea.
+128|4|i$shall$soon$become$a$large$fish$fit$for$the$tables$of$the$rich,$and$then$you$can$catch$me$again,$and$make$a$handsome$profit$of$me."
+128|5|the$fisherman$replied,$"i$should$indeed$be$a$very$simple$fellow$if,$for$the$chance$of$a$greater$uncertain$profit,$i$were$to$forego$my$present$certain$gain."

@@ -1,0 +1,4 @@
+299|0|an$ass$congratulated$a$horse$on$being$so$ungrudgingly$and$carefully$provided$for,$while$he$himself$had$scarcely$enough$to$eat$and$not$even$that$without$hard$work.
+299|1|but$when$war$broke$out,$a$heavily$armed$soldier$mounted$the$horse,$and$riding$him$to$the$charge,$rushed$into$the$very$midst$of$the$enemy.
+299|2|the$horse$was$wounded$and$fell$dead$on$the$battlefield.
+299|3|then$the$ass,$seeing$all$these$things,$changed$his$mind,$and$commiserated$the$horse.

@@ -1,0 +1,7 @@
+224|0|a$cobbler$unable$to$make$a$living$by$his$trade$and$made$desperate$by$poverty,$began$to$practice$medicine$in$a$town$in$which$he$was$not$known.
+224|1|he$sold$a$drug,$pretending$that$it$was$an$antidote$to$all$poisons,$and$obtained$a$great$name$for$himself$by$long-winded$puffs$and$advertisements.
+224|2|when$the$cobbler$happened$to$fall$sick$himself$of$a$serious$illness,$the$governor$of$the$town$determined$to$test$his$skill.
+224|3|for$this$purpose$he$called$for$a$cup,$and$while$filling$it$with$water,$pretended$to$mix$poison$with$the$cobbler's$antidote,$commanding$him$to$drink$it$on$the$promise$of$a$reward.
+224|4|the$cobbler,$under$the$fear$of$death,$confessed$that$he$had$no$knowledge$of$medicine,$and$was$only$made$famous$by$the$stupid$clamors$of$the$crowd.
+224|5|the$governor$then$called$a$public$assembly$and$addressed$the$citizens:$$"of$what$folly$have$you$been$guilty?
+224|6|you$have$not$hesitated$to$entrust$your$heads$to$a$man,$whom$no$one$could$employ$to$make$even$the$shoes$for$their$feet."

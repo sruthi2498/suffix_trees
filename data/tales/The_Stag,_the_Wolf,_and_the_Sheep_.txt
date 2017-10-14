@@ -1,0 +1,4 @@
+177|0|a$stag$asked$a$sheep$to$lend$him$a$measure$of$wheat,$and$said$that$the$wolf$would$be$his$surety.
+177|1|the$sheep,$fearing$some$fraud$was$intended,$excused$herself,$saying,$"the$wolf$is$accustomed$to$seize$what$he$wants$and$to$run$off;$and$you,$too,$can$quickly$outstrip$me$in$your$rapid$flight.
+177|2|how$then$shall$i$be$able$to$find$you,$when$the$day$of$payment$comes?'
+177|3|two$blacks$do$not$make$one$white.

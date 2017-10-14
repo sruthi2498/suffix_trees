@@ -1,0 +1,5 @@
+131|0|a$lion$entered$a$farmyard.
+131|1|the$farmer,$wishing$to$catch$him,$shut$the$gate.
+131|2|when$the$lion$found$that$he$could$not$escape,$he$flew$upon$the$sheep$and$killed$them,$and$then$attacked$the$oxen.
+131|3|the$farmer,$beginning$to$be$alarmed$for$his$own$safety,$opened$the$gate$and$released$the$lion.
+131|4|on$his$departure$the$farmer$grievously$lamented$the$destruction$of$his$sheep$and$oxen,$but$his$wife,$who$had$been$a$spectator$to$all$that$took$place,$said,$"on$my$word,$you$are$rightly$served,$for$how$could$you$for$a$moment$think$of$shutting$up$a$lion$along$with$you$in$your$farmyard$when$you$know$that$you$shake$in$your$shoes$if$you$only$hear$his$roar$at$a$distance?'

@@ -1,0 +1,5 @@
+34|0|a$heavy$wagon$was$being$dragged$along$a$country$lane$by$a$team$of$oxen.
+34|1|the$axle-trees$groaned$and$creaked$terribly;$whereupon$the$oxen,$turning$round,$thus$addressed$the$wheels:$$"hullo$there!
+34|2|why$do$you$make$so$much$noise?
+34|3|we$bear$all$the$labor,$and$we,$not$you,$ought$to$cry$out."
+34|4|those$who$suffer$most$cry$out$the$least.

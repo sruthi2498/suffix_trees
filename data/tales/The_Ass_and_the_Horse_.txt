@@ -1,0 +1,5 @@
+266|0|an$ass$besought$a$horse$to$spare$him$a$small$portion$of$his$feed.
+266|1|"yes,"$said$the$horse;$"if$any$remains$out$of$what$i$am$now$eating$i$will$give$it$you$for$the$sake$of$my$own$superior$dignity,$and$if$you$will$come$when$i$reach$my$own$stall$in$the$evening,$i$will$give$you$a$little$sack$full$of$barley."
+266|2|the$ass$replied,$"thank$you.
+266|3|but$i$can't$think$that$you,$who$refuse$me$a$little$matter$now.
+266|4|will$by$and$by$confer$on$me$a$greater$benefit."

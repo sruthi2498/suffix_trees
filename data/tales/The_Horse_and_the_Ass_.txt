@@ -1,0 +1,6 @@
+219|0|a$horse,$proud$of$his$fine$trappings,$met$an$ass$on$the$highway.
+219|1|the$ass,$being$heavily$laden,$moved$slowly$out$of$the$way.
+219|2|"hardly,"$said$the$horse,$"can$i$resist$kicking$you$with$my$heels."
+219|3|the$ass$held$his$peace,$and$made$only$a$silent$appeal$to$the$justice$of$the$gods.
+219|4|not$long$afterwards$the$horse,$having$become$broken-winded,$was$sent$by$his$owner$to$the$farm.
+219|5|the$ass,$seeing$him$drawing$a$dungcart,$thus$derided$him:$$"where,$o$boaster,$are$now$all$thy$gay$trappings,$thou$who$are$thyself$reduced$to$the$condition$you$so$lately$treated$with$contempt?'

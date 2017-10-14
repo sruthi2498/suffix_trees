@@ -1,0 +1,4 @@
+127|0|a$very$large$oak$was$uprooted$by$the$wind$and$thrown$across$a$stream.
+127|1|it$fell$among$some$reeds,$which$it$thus$addressed:$$"i$wonder$how$you,$who$are$so$light$and$weak,$are$not$entirely$crushed$by$these$strong$winds."
+127|2|they$replied,$"you$fight$and$contend$with$the$wind,$and$consequently$you$are$destroyed;$while$we$on$the$contrary$bend$before$the$least$breath$of$air,$and$therefore$remain$unbroken,$and$escape."
+127|3|stoop$to$conquer.

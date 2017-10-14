@@ -1,0 +1,9 @@
+84|0|a$boy$stole$a$lesson-book$from$one$of$his$schoolfellows$and$took$it$home$to$his$mother.
+84|1|she$not$only$abstained$from$beating$him,$but$encouraged$him.
+84|2|he$next$time$stole$a$cloak$and$brought$it$to$her,$and$she$again$commended$him.
+84|3|the$youth,$advanced$to$adulthood,$proceeded$to$steal$things$of$still$greater$value.
+84|4|at$last$he$was$caught$in$the$very$act,$and$having$his$hands$bound$behind$him,$was$led$away$to$the$place$of$public$execution.
+84|5|his$mother$followed$in$the$crowd$and$violently$beat$her$breast$in$sorrow,$whereupon$the$young$man$said,$"i$wish$to$say$something$to$my$mother$in$her$ear."
+84|6|she$came$close$to$him,$and$he$quickly$seized$her$ear$with$his$teeth$and$bit$it$off.
+84|7|the$mother$upbraided$him$as$an$unnatural$child,$whereon$he$replied,$"ah!
+84|8|if$you$had$beaten$me$when$i$first$stole$and$brought$to$you$that$lesson-book,$i$should$not$have$come$to$this,$nor$have$been$thus$led$to$a$disgraceful$death."

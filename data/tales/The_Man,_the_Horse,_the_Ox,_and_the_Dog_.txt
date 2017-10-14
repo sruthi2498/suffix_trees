@@ -1,0 +1,8 @@
+194|0|a$horse,$ox,$and$dog,$driven$to$great$straits$by$the$cold,$sought$shelter$and$protection$from$man.
+194|1|he$received$them$kindly,$lighted$a$fire,$and$warmed$them.
+194|2|he$let$the$horse$make$free$with$his$oats,$gave$the$ox$an$abundance$of$hay,$and$fed$the$dog$with$meat$from$his$own$table.
+194|3|grateful$for$these$favors,$the$animals$determined$to$repay$him$to$the$best$of$their$ability.
+194|4|for$this$purpose,$they$divided$the$term$of$his$life$between$them,$and$each$endowed$one$portion$of$it$with$the$qualities$which$chiefly$characterized$himself.
+194|5|the$horse$chose$his$earliest$years$and$gave$them$his$own$attributes:$$hence$every$man$is$in$his$youth$impetuous,$headstrong,$and$obstinate$in$maintaining$his$own$opinion.
+194|6|the$ox$took$under$his$patronage$the$next$term$of$life,$and$therefore$man$in$his$middle$age$is$fond$of$work,$devoted$to$labor,$and$resolute$to$amass$wealth$and$to$husband$his$resources.
+194|7|the$end$of$life$was$reserved$for$the$dog,$wherefore$the$old$man$is$often$snappish,$irritable,$hard$to$please,$and$selfish,$tolerant$only$of$his$own$household,$but$averse$to$strangers$and$to$all$who$do$not$administer$to$his$comfort$or$to$his$necessities.

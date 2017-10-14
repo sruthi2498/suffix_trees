@@ -1,0 +1,5 @@
+55|0|the$oxen$once$upon$a$time$sought$to$destroy$the$butchers,$who$practiced$a$trade$destructive$to$their$race.
+55|1|they$assembled$on$a$certain$day$to$carry$out$their$purpose,$and$sharpened$their$horns$for$the$contest.
+55|2|but$one$of$them$who$was$exceedingly$old$(for$many$a$field$had$he$plowed)$thus$spoke:$$"these$butchers,$it$is$true,$slaughter$us,$but$they$do$so$with$skillful$hands,$and$with$no$unnecessary$pain.
+55|3|if$we$get$rid$of$them,$we$shall$fall$into$the$hands$of$unskillful$operators,$and$thus$suffer$a$double$death:$$for$you$may$be$assured,$that$though$all$the$butchers$should$perish,$yet$will$men$never$want$beef."
+55|4|do$not$be$in$a$hurry$to$change$one$evil$for$another.

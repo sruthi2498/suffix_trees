@@ -1,0 +1,5 @@
+37|0|a$goatherd$had$sought$to$bring$back$a$stray$goat$to$his$flock.
+37|1|he$whistled$and$sounded$his$horn$in$vain;$the$straggler$paid$no$attention$to$the$summons.
+37|2|at$last$the$goatherd$threw$a$stone,$and$breaking$its$horn,$begged$the$goat$not$to$tell$his$master.
+37|3|the$goat$replied,$"why,$you$silly$fellow,$the$horn$will$speak$though$i$be$silent."
+37|4|do$not$attempt$to$hide$things$which$cannot$be$hid.

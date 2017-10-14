@@ -1,0 +1,6 @@
+95|0|a$crow$having$stolen$a$bit$of$meat,$perched$in$a$tree$and$held$it$in$her$beak.
+95|1|a$fox,$seeing$this,$longed$to$possess$the$meat$himself,$and$by$a$wily$stratagem$succeeded.
+95|2|"how$handsome$is$the$crow,"$he$exclaimed,$in$the$beauty$of$her$shape$and$in$the$fairness$of$her$complexion!
+95|3|oh,$if$her$voice$were$only$equal$to$her$beauty,$she$would$deservedly$be$considered$the$queen$of$birds!"
+95|4|this$he$said$deceitfully;$but$the$crow,$anxious$to$refute$the$reflection$cast$upon$her$voice,$set$up$a$loud$caw$and$dropped$the$flesh.
+95|5|the$fox$quickly$picked$it$up,$and$thus$addressed$the$crow:$$"my$good$crow,$your$voice$is$right$enough,$but$your$wit$is$wanting."

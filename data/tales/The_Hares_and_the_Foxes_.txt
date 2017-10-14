@@ -1,0 +1,3 @@
+171|0|the$hares$waged$war$with$the$eagles,$and$called$upon$the$foxes$to$help$them.
+171|1|they$replied,$"we$would$willingly$have$helped$you,$if$we$had$not$known$who$you$were,$and$with$whom$you$were$fighting."
+171|2|count$the$cost$before$you$commit$yourselves.

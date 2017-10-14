@@ -1,0 +1,8 @@
+248|0|according$to$an$ancient$legend,$the$first$man$was$made$by$jupiter,$the$first$bull$by$neptune,$and$the$first$house$by$minerva.
+248|1|on$the$completion$of$their$labors,$a$dispute$arose$as$to$which$had$made$the$most$perfect$work.
+248|2|they$agreed$to$appoint$momus$as$judge,$and$to$abide$by$his$decision.
+248|3|momus,$however,$being$very$envious$of$the$handicraft$of$each,$found$fault$with$all.
+248|4|he$first$blamed$the$work$of$neptune$because$he$had$not$made$the$horns$of$the$bull$below$his$eyes,$so$he$might$better$see$where$to$strike.
+248|5|he$then$condemned$the$work$of$jupiter,$because$he$had$not$placed$the$heart$of$man$on$the$outside,$that$everyone$might$read$the$thoughts$of$the$evil$disposed$and$take$precautions$against$the$intended$mischief.
+248|6|and,$lastly,$he$inveighed$against$minerva$because$she$had$not$contrived$iron$wheels$in$the$foundation$of$her$house,$so$its$inhabitants$might$more$easily$remove$if$a$neighbor$proved$unpleasant.
+248|7|jupiter,$indignant$at$such$inveterate$faultfinding,$drove$him$from$his$office$of$judge,$and$expelled$him$from$the$mansions$of$olympus.

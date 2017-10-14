@@ -1,0 +1,6 @@
+103|0|a$lion$roaming$by$the$seashore$saw$a$dolphin$lift$up$its$head$out$of$the$waves,$and$suggested$that$they$contract$an$alliance,$saying$that$of$all$the$animals$they$ought$to$be$the$best$friends,$since$the$one$was$the$king$of$beasts$on$the$earth,$and$the$other$was$the$sovereign$ruler$of$all$the$inhabitants$of$the$ocean.
+103|1|the$dolphin$gladly$consented$to$this$request.
+103|2|not$long$afterwards$the$lion$had$a$combat$with$a$wild$bull,$and$called$on$the$dolphin$to$help$him.
+103|3|the$dolphin,$though$quite$willing$to$give$him$assistance,$was$unable$to$do$so,$as$he$could$not$by$any$means$reach$the$land.
+103|4|the$lion$abused$him$as$a$traitor.
+103|5|the$dolphin$replied,$"nay,$my$friend,$blame$not$me,$but$nature,$which,$while$giving$me$the$sovereignty$of$the$sea,$has$quite$denied$me$the$power$of$living$upon$the$land."

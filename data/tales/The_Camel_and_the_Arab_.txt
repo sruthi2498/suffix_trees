@@ -1,0 +1,3 @@
+278|0|an$arab$camel-driver,$after$completing$the$loading$of$his$camel,$asked$him$which$he$would$like$best,$to$go$up$hill$or$down.
+278|1|the$poor$beast$replied,$not$without$a$touch$of$reason:$$"why$do$you$ask$me?
+278|2|is$it$that$the$level$way$through$the$desert$is$closed?"

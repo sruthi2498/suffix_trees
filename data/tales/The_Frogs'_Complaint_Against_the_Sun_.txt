@@ -1,0 +1,4 @@
+307|0|once$upon$a$time,$when$the$sun$announced$his$intention$to$take$a$wife,$the$frogs$lifted$up$their$voices$in$clamor$to$the$sky.
+307|1|jupiter,$disturbed$by$the$noise$of$their$croaking,$inquired$the$cause$of$their$complaint.
+307|2|one$of$them$said,$"the$sun,$now$while$he$is$single,$parches$up$the$marsh,$and$compels$us$to$die$miserably$in$our$arid$homes.
+307|3|what$will$be$our$future$condition$if$he$should$beget$other$suns?'

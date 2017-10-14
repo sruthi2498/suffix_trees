@@ -1,0 +1,8 @@
+76|0|a$kid$standing$on$the$roof$of$a$house,$out$of$harm's$way,$saw$a$wolf$passing$by$and$immediately$began$to$taunt$and$revile$him.
+76|1|the$wolf,$looking$up,$said,$"sirrah!
+76|2|i$hear$thee:$$yet$it$is$not$thou$who$mockest$me,$but$the$roof$on$which$thou$art$standing."
+76|3|time$and$place$often$give$the$advantage$to$the$weak$over$the$strong.
+76|4|a$kid,$returning$without$protection$from$the$pasture,$was$pursued$by$a$wolf.
+76|5|seeing$he$could$not$escape,$he$turned$round,$and$said:$$"i$know,$friend$wolf,$that$i$must$be$your$prey,$but$before$i$die$i$would$ask$of$you$one$favor$you$will$play$me$a$tune$to$which$i$may$dance."
+76|6|the$wolf$complied,$and$while$he$was$piping$and$the$kid$was$dancing,$some$hounds$hearing$the$sound$ran$up$and$began$chasing$the$wolf.
+76|7|turning$to$the$kid,$he$said,$"it$is$just$what$i$deserve;$for$i,$who$am$only$a$butcher,$should$not$have$turned$piper$to$please$you."

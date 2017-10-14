@@ -1,0 +1,5 @@
+21|0|one$winter$a$farmer$found$a$snake$stiff$and$frozen$with$cold.
+21|1|he$had$compassion$on$it,$and$taking$it$up,$placed$it$in$his$bosom.
+21|2|the$snake$was$quickly$revived$by$the$warmth,$and$resuming$its$natural$instincts,$bit$its$benefactor,$inflicting$on$him$a$mortal$wound.
+21|3|"oh,"$cried$the$farmer$with$his$last$breath,$"i$am$rightly$served$for$pitying$a$scoundrel."
+21|4|the$greatest$kindness$will$not$bind$the$ungrateful.

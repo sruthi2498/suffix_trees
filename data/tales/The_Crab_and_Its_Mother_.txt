@@ -1,0 +1,5 @@
+81|0|a$crab$said$to$her$son,$"why$do$you$walk$so$one-sided,$my$child?
+81|1|it$is$far$more$becoming$to$go$straight$forward."
+81|2|the$young$crab$replied:$$"quite$true,$dear$mother;$and$if$you$will$show$me$the$straight$way,$i$will$promise$to$walk$in$it."
+81|3|the$mother$tried$in$vain,$and$submitted$without$remonstrance$to$the$reproof$of$her$child.
+81|4|example$is$more$powerful$than$precept.

@@ -1,0 +1,6 @@
+124|0|a$brazier$had$a$little$dog,$which$was$a$great$favorite$with$his$master,$and$his$constant$companion.
+124|1|while$he$hammered$away$at$his$metals$the$dog$slept;$but$when,$on$the$other$hand,$he$went$to$dinner$and$began$to$eat,$the$dog$woke$up$and$wagged$his$tail,$as$if$he$would$ask$for$a$share$of$his$meal.
+124|2|his$master$one$day,$pretending$to$be$angry$and$shaking$his$stick$at$him,$said,$"you$wretched$little$sluggard!
+124|3|what$shall$i$do$to$you?
+124|4|while$i$am$hammering$on$the$anvil,$you$sleep$on$the$mat;$and$when$i$begin$to$eat$after$my$toil,$you$wake$up$and$wag$your$tail$for$food.
+124|5|do$you$not$know$that$labor$is$the$source$of$every$blessing,$and$that$none$but$those$who$work$are$entitled$to$eat?'

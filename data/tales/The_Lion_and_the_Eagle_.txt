@@ -1,0 +1,3 @@
+270|0|an$eagle$stayed$his$flight$and$entreated$a$lion$to$make$an$alliance$with$him$to$their$mutual$advantage.
+270|1|the$lion$replied,$"i$have$no$objection,$but$you$must$excuse$me$for$requiring$you$to$find$surety$for$your$good$faith,$for$how$can$i$trust$anyone$as$a$friend$who$is$able$to$fly$away$from$his$bargain$whenever$he$pleases?'
+270|2|try$before$you$trust.

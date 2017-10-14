@@ -1,0 +1,4 @@
+158|0|a$lamp,$soaked$with$too$much$oil$and$flaring$brightly,$boasted$that$it$gave$more$light$than$the$sun.
+158|1|then$a$sudden$puff$of$wind$arose,$and$the$lamp$was$immediately$extinguished.
+158|2|its$owner$lit$it$again,$and$said:$$"boast$no$more,$but$henceforth$be$content$to$give$thy$light$in$silence.
+158|3|know$that$not$even$the$stars$need$to$be$relit"

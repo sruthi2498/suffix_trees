@@ -1,0 +1,6 @@
+199|0|when$a$fox$who$had$never$yet$seen$a$lion,$fell$in$with$him$by$chance$for$the$first$time$in$the$forest,$he$was$so$frightened$that$he$nearly$died$with$fear.
+199|1|on$meeting$him$for$the$second$time,$he$was$still$much$alarmed,$but$not$to$the$same$extent$as$at$first.
+199|2|on$seeing$him$the$third$time,$he$so$increased$in$boldness$that$he$went$up$to$him$and$commenced$a$familiar$conversation$with$him.
+199|3|acquaintance$softens$prejudices.
+199|4|a$fox$saw$a$lion$confined$in$a$cage,$and$standing$near$him,$bitterly$reviled$him.
+199|5|the$lion$said$to$the$fox,$"it$is$not$thou$who$revilest$me;$but$this$mischance$which$has$befallen$me."

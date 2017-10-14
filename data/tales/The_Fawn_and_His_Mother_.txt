@@ -1,0 +1,5 @@
+22|0|a$young$fawn$once$said$to$his$mother,$"you$are$larger$than$a$dog,$and$swifter,$and$more$used$to$running,$and$you$have$your$horns$as$a$defense;$why,$then,$o$mother!
+22|1|do$the$hounds$frighten$you$so?"
+22|2|she$smiled,$and$said:$$"i$know$full$well,$my$son,$that$all$you$say$is$true.
+22|3|i$have$the$advantages$you$mention,$but$when$i$hear$even$the$bark$of$a$single$dog$i$feel$ready$to$faint,$and$fly$away$as$fast$as$i$can."
+22|4|no$arguments$will$give$courage$to$the$coward.

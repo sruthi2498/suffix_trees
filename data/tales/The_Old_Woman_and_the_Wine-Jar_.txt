@@ -1,0 +1,4 @@
+94|0|an$old$woman$found$an$empty$jar$which$had$lately$been$full$of$prime$old$wine$and$which$still$retained$the$fragrant$smell$of$its$former$contents.
+94|1|she$greedily$placed$it$several$times$to$her$nose,$and$drawing$it$backwards$and$forwards$said,$"o$most$delicious!
+94|2|how$nice$must$the$wine$itself$have$been,$when$it$leaves$behind$in$the$very$vessel$which$contained$it$so$sweet$a$perfume!"
+94|3|the$memory$of$a$good$deed$lives.

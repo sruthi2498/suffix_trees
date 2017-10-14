@@ -1,0 +1,6 @@
+99|0|a$certain$poor$widow$had$one$solitary$sheep.
+99|1|at$shearing$time,$wishing$to$take$his$fleece$and$to$avoid$expense,$she$sheared$him$herself,$but$used$the$shears$so$unskillfully$that$with$the$fleece$she$sheared$the$flesh.
+99|2|the$sheep,$writhing$with$pain,$said,$"why$do$you$hurt$me$so,$mistress?
+99|3|what$weight$can$my$blood$add$to$the$wool?
+99|4|if$you$want$my$flesh,$there$is$the$butcher,$who$will$kill$me$in$an$instant;$but$if$you$want$my$fleece$and$wool,$there$is$the$shearer,$who$will$shear$and$not$hurt$me."
+99|5|the$least$outlay$is$not$always$the$greatest$gain.

@@ -1,0 +1,7 @@
+250|0|a$man$and$a$satyr$once$drank$together$in$token$of$a$bond$of$alliance$being$formed$between$them.
+250|1|one$very$cold$wintry$day,$as$they$talked,$the$man$put$his$fingers$to$his$mouth$and$blew$on$them.
+250|2|when$the$satyr$asked$the$reason$for$this,$he$told$him$that$he$did$it$to$warm$his$hands$because$they$were$so$cold.
+250|3|later$on$in$the$day$they$sat$down$to$eat,$and$the$food$prepared$was$quite$scalding.
+250|4|the$man$raised$one$of$the$dishes$a$little$towards$his$mouth$and$blew$in$it.
+250|5|when$the$satyr$again$inquired$the$reason,$he$said$that$he$did$it$to$cool$the$meat,$which$was$too$hot.
+250|6|"i$can$no$longer$consider$you$as$a$friend,"$said$the$satyr,$"a$fellow$who$with$the$same$breath$blows$hot$and$cold."

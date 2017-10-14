@@ -1,0 +1,8 @@
+265|0|a$famished$wolf$was$prowling$about$in$the$morning$in$search$of$food.
+265|1|as$he$passed$the$door$of$a$cottage$built$in$the$forest,$he$heard$a$mother$say$to$her$child,$"be$quiet,$or$i$will$throw$you$out$of$the$window,$and$the$wolf$shall$eat$you."
+265|2|the$wolf$sat$all$day$waiting$at$the$door.
+265|3|in$the$evening$he$heard$the$same$woman$fondling$her$child$and$saying:$$"you$are$quiet$now,$and$if$the$wolf$should$come,$we$will$kill$him."
+265|4|the$wolf,$hearing$these$words,$went$home,$gasping$with$cold$and$hunger.
+265|5|when$he$reached$his$den,$mistress$wolf$inquired$of$him$why$he$returned$wearied$and$supperless,$so$contrary$to$his$wont.
+265|6|he$replied:$$"why,$forsooth!
+265|7|use$i$gave$credence$to$the$words$of$a$woman!"

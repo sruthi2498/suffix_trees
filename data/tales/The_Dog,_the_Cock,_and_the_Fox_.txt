@@ -1,0 +1,7 @@
+208|0|a$dog$and$a$cock$being$great$friends,$agreed$to$travel$together.
+208|1|at$nightfall$they$took$shelter$in$a$thick$wood.
+208|2|the$cock$flying$up,$perched$himself$on$the$branches$of$a$tree,$while$the$dog$found$a$bed$beneath$in$the$hollow$trunk.
+208|3|when$the$morning$dawned,$the$cock,$as$usual,$crowed$very$loudly$several$times.
+208|4|a$fox$heard$the$sound,$and$wishing$to$make$a$breakfast$on$him,$came$and$stood$under$the$branches,$saying$how$earnestly$he$desired$to$make$the$acquaintance$of$the$owner$of$so$magnificent$a$voice.
+208|5|the$cock,$suspecting$his$civilities,$said:$$"sir,$i$wish$you$would$do$me$the$favor$of$going$around$to$the$hollow$trunk$below$me,$and$waking$my$porter,$so$that$he$may$open$the$door$and$let$you$in."
+208|6|when$the$fox$approached$the$tree,$the$dog$sprang$out$and$caught$him,$and$tore$him$to$pieces.

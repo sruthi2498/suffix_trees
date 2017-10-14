@@ -1,0 +1,4 @@
+5|0|a$charcoal-burner$carried$on$his$trade$in$his$own$house.
+5|1|one$day$he$met$a$friend,$a$fuller,$and$entreated$him$to$come$and$live$with$him,$saying$that$they$should$be$far$better$neighbors$and$that$their$housekeeping$expenses$would$be$lessened.
+5|2|the$fuller$replied,$"the$arrangement$is$impossible$as$far$as$i$am$concerned,$for$whatever$i$should$whiten,$you$would$immediately$blacken$again$with$your$charcoal."
+5|3|like$will$draw$like.

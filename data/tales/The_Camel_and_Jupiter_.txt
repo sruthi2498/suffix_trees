@@ -1,0 +1,3 @@
+297|0|the$camel,$when$he$saw$the$bull$adorned$with$horns,$envied$him$and$wished$that$he$himself$could$obtain$the$same$honors.
+297|1|he$went$to$jupiter,$and$besought$him$to$give$him$horns.
+297|2|jupiter,$vexed$at$his$request$because$he$was$not$satisfied$with$his$size$and$strength$of$body,$and$desired$yet$more,$not$only$refused$to$give$him$horns,$but$even$deprived$him$of$a$portion$of$his$ears.

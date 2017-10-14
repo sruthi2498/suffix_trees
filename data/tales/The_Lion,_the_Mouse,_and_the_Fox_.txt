@@ -1,0 +1,6 @@
+56|0|a$lion,$fatigued$by$the$heat$of$a$summer's$day,$fell$fast$asleep$in$his$den.
+56|1|a$mouse$ran$over$his$mane$and$ears$and$woke$him$from$his$slumbers.
+56|2|he$rose$up$and$shook$himself$in$great$wrath,$and$searched$every$corner$of$his$den$to$find$the$mouse.
+56|3|a$fox$seeing$him$said:$$"a$fine$lion$you$are,$to$be$frightened$of$a$mouse."
+56|4|"'tis$not$the$mouse$i$fear,"$said$the$lion;$"i$resent$his$familiarity$and$ill-breeding."
+56|5|little$liberties$are$great$offenses.

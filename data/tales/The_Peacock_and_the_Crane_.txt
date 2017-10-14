@@ -1,0 +1,3 @@
+178|0|a$peacock$spreading$its$gorgeous$tail$mocked$a$crane$that$passed$by,$ridiculing$the$ashen$hue$of$its$plumage$and$saying,$"i$am$robed,$like$a$king,$in$gold$and$purple$and$all$the$colors$of$the$rainbow;$while$you$have$not$a$bit$of$color$on$your$wings."
+178|1|"true,"$replied$the$crane;$"but$i$soar$to$the$heights$of$heaven$and$lift$up$my$voice$to$the$stars,$while$you$walk$below,$like$a$cock,$among$the$birds$of$the$dunghill."
+178|2|fine$feathers$don't$make$fine$birds.

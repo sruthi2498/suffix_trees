@@ -1,0 +1,4 @@
+280|0|a$troublesome$crow$seated$herself$on$the$back$of$a$sheep.
+280|1|the$sheep,$much$against$his$will,$carried$her$backward$and$forward$for$a$long$time,$and$at$last$said,$"if$you$had$treated$a$dog$in$this$way,$you$would$have$had$your$deserts$from$his$sharp$teeth."
+280|2|to$this$the$crow$replied,$"i$despise$the$weak$and$yield$to$the$strong.
+280|3|i$know$whom$i$may$bully$and$whom$i$must$flatter;$and$i$thus$prolong$my$life$to$a$good$old$age."

@@ -1,0 +1,3 @@
+31|0|a$dog$lay$in$a$manger,$and$by$his$growling$and$snapping$prevented$the$oxen$from$eating$the$hay$which$had$been$placed$for$them.
+31|1|"what$a$selfish$dog!"
+31|2|said$one$of$them$to$his$companions;$"he$cannot$eat$the$hay$himself,$and$yet$refuses$to$allow$those$to$eat$who$can."

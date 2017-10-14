@@ -1,0 +1,11 @@
+213|0|a$country$mouse$invited$a$town$mouse,$an$intimate$friend,$to$pay$him$a$visit$and$partake$of$his$country$fare.
+213|1|as$they$were$on$the$bare$plowlands,$eating$there$wheat-stocks$and$roots$pulled$up$from$the$hedgerow,$the$town$mouse$said$to$his$friend,$"you$live$here$the$life$of$the$ants,$while$in$my$house$is$the$horn$of$plenty.
+213|2|i$am$surrounded$by$every$luxury,$and$if$you$will$come$with$me,$as$i$wish$you$would,$you$shall$have$an$ample$share$of$my$dainties."
+213|3|the$country$mouse$was$easily$persuaded,$and$returned$to$town$with$his$friend.
+213|4|on$his$arrival,$the$town$mouse$placed$before$him$bread,$barley,$beans,$dried$figs,$honey,$raisins,$and,$last$of$all,$brought$a$dainty$piece$of$cheese$from$a$basket.
+213|5|the$country$mouse,$being$much$delighted$at$the$sight$of$such$good$cheer,$expressed$his$satisfaction$in$warm$terms$and$lamented$his$own$hard$fate.
+213|6|just$as$they$were$beginning$to$eat,$someone$opened$the$door,$and$they$both$ran$off$squeaking,$as$fast$as$they$could,$to$a$hole$so$narrow$that$two$could$only$find$room$in$it$by$squeezing.
+213|7|they$had$scarcely$begun$their$repast$again$when$someone$else$entered$to$take$something$out$of$a$cupboard,$whereupon$the$two$mice,$more$frightened$than$before,$ran$away$and$hid$themselves.
+213|8|at$last$the$country$mouse,$almost$famished,$said$to$his$friend:$$"although$you$have$prepared$for$me$so$dainty$a$feast,$i$must$leave$you$to$enjoy$it$by$yourself.
+213|9|it$is$surrounded$by$too$many$dangers$to$please$me.
+213|10|i$prefer$my$bare$plowlands$and$roots$from$the$hedgerow,$where$i$can$live$in$safety,$and$without$fear."

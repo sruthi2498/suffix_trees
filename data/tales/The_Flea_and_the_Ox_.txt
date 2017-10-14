@@ -1,0 +1,4 @@
+242|0|a$flea$thus$questioned$an$ox:$$"what$ails$you,$that$being$so$huge$and$strong,$you$submit$to$the$wrongs$you$receive$from$men$and$slave$for$them$day$by$day,$while$i,$being$so$small$a$creature,$mercilessly$feed$on$their$flesh$and$drink$their$blood$without$stint?'
+242|1|the$ox$replied:$$"i$do$not$wish$to$be$ungrateful,$for$i$am$loved$and$well$cared$for$by$men,$and$they$often$pat$my$head$and$shoulders."
+242|2|"woe's$me!"
+242|3|said$the$flea;$"this$very$patting$which$you$like,$whenever$it$happens$to$me,$brings$with$it$my$inevitable$destruction."

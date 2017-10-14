@@ -1,0 +1,5 @@
+90|0|a$wolf,$sorely$wounded$and$bitten$by$dogs,$lay$sick$and$maimed$in$his$lair.
+90|1|being$in$want$of$food,$he$called$to$a$sheep$who$was$passing,$and$asked$him$to$fetch$some$water$from$a$stream$flowing$close$beside$him.
+90|2|"for,"$he$said,$"if$you$will$bring$me$drink,$i$will$find$means$to$provide$myself$with$meat."
+90|3|"yes,"$said$the$sheep,$"if$i$should$bring$you$the$draught,$you$would$doubtless$make$me$provide$the$meat$also."
+90|4|hypocritical$speeches$are$easily$seen$through.

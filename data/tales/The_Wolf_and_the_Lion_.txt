@@ -1,0 +1,10 @@
+235|0|roaming$by$the$mountainside$at$sundown,$a$wolf$saw$his$own$shadow$become$greatly$extended$and$magnified,$and$he$said$to$himself,$"why$should$i,$being$of$such$an$immense$size$and$extending$nearly$an$acre$in$length,$be$afraid$of$the$lion?
+235|1|ought$i$not$to$be$acknowledged$as$king$of$all$the$collected$beasts?'
+235|2|while$he$was$indulging$in$these$proud$thoughts,$a$lion$fell$upon$him$and$killed$him.
+235|3|he$exclaimed$with$a$too$late$repentance,$"wretched$me!
+235|4|this$overestimation$of$myself$is$the$cause$of$my$destruction."
+235|5|a$wolf,$having$stolen$a$lamb$from$a$fold,$was$carrying$him$off$to$his$lair.
+235|6|a$lion$met$him$in$the$path,$and$seizing$the$lamb,$took$it$from$him.
+235|7|standing$at$a$safe$distance,$the$wolf$exclaimed,$"you$have$unrighteously$taken$that$which$was$mine$from$me!"
+235|8|to$which$the$lion$jeeringly$replied,$"it$was$righteously$yours,$eh?
+235|9|the$gift$of$a$friend?'

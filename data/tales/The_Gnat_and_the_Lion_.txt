@@ -1,0 +1,10 @@
+188|0|a$gnat$came$and$said$to$a$lion,$"i$do$not$in$the$least$fear$you,$nor$are$you$stronger$than$i$am.
+188|1|for$in$what$does$your$strength$consist?
+188|2|you$can$scratch$with$your$claws$and$bite$with$your$teeth$an$a$woman$in$her$quarrels.
+188|3|i$repeat$that$i$am$altogether$more$powerful$than$you;$and$if$you$doubt$it,$let$us$fight$and$see$who$will$conquer."
+188|4|the$gnat,$having$sounded$his$horn,$fastened$himself$upon$the$lion$and$stung$him$on$the$nostrils$and$the$parts$of$the$face$devoid$of$hair.
+188|5|while$trying$to$crush$him,$the$lion$tore$himself$with$his$claws,$until$he$punished$himself$severely.
+188|6|the$gnat$thus$prevailed$over$the$lion,$and,$buzzing$about$in$a$song$of$triumph,$flew$away.
+188|7|but$shortly$afterwards$he$became$entangled$in$the$meshes$of$a$cobweb$and$was$eaten$by$a$spider.
+188|8|he$greatly$lamented$his$fate,$saying,$"woe$is$me!
+188|9|that$i,$who$can$wage$war$successfully$with$the$hugest$beasts,$should$perish$myself$from$this$spider,$the$most$inconsiderable$of$insects!"

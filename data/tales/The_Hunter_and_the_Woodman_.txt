@@ -1,0 +1,6 @@
+129|0|a$hunter,$not$very$bold,$was$searching$for$the$tracks$of$a$lion.
+129|1|he$asked$a$man$felling$oaks$in$the$forest$if$he$had$seen$any$marks$of$his$footsteps$or$knew$where$his$lair$was.
+129|2|"i$will,"$said$the$man,$"at$once$show$you$the$lion$himself."
+129|3|the$hunter,$turning$very$pale$and$chattering$with$his$teeth$from$fear,$replied,$"no,$thank$you.
+129|4|i$did$not$ask$that;$it$is$his$track$only$i$am$in$search$of,$not$the$lion$himself."
+129|5|the$hero$is$brave$in$deeds$as$well$as$words.

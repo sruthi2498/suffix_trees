@@ -1,0 +1,9 @@
+65|0|an$old$woman$having$lost$the$use$of$her$eyes,$called$in$a$physician$to$heal$them,$and$made$this$bargain$with$him$in$the$presence$of$witnesses:$$that$if$he$should$cure$her$blindness,$he$should$receive$from$her$a$sum$of$money;$but$if$her$infirmity$remained,$she$should$give$him$nothing.
+65|1|this$agreement$being$made,$the$physician,$time$after$time,$applied$his$salve$to$her$eyes,$and$on$every$visit$took$something$away,$stealing$all$her$property$little$by$little.
+65|2|and$when$he$had$got$all$she$had,$he$healed$her$and$demanded$the$promised$payment.
+65|3|the$old$woman,$when$she$recovered$her$sight$and$saw$none$of$her$goods$in$her$house,$would$give$him$nothing.
+65|4|the$physician$insisted$on$his$claim,$and.
+65|5|as$she$still$refused,$summoned$her$before$the$judge.
+65|6|the$old$woman,$standing$up$in$the$court,$argued:$$"this$man$here$speaks$the$truth$in$what$he$says;$for$i$did$promise$to$give$him$a$sum$of$money$if$i$should$recover$my$sight:$$but$if$i$continued$blind,$i$was$to$give$him$nothing.
+65|7|now$he$declares$that$i$am$healed.
+65|8|i$on$the$contrary$affirm$that$i$am$still$blind;$for$when$i$lost$the$use$of$my$eyes,$i$saw$in$my$house$various$chattels$and$valuable$goods:$$but$now,$though$he$swears$i$am$cured$of$my$blindness,$i$am$not$able$to$see$a$single$thing$in$it."

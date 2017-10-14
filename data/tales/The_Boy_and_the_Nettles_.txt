@@ -1,0 +1,5 @@
+61|0|a$boy$was$stung$by$a$nettle.
+61|1|he$ran$home$and$told$his$mother,$saying,$"although$it$hurts$me$very$much,$i$only$touched$it$gently."
+61|2|"that$was$just$why$it$stung$you,"$said$his$mother.
+61|3|"the$next$time$you$touch$a$nettle,$grasp$it$boldly,$and$it$will$be$soft$as$silk$to$your$hand,$and$not$in$the$least$hurt$you."
+61|4|whatever$you$do,$do$with$all$your$might.

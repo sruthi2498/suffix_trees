@@ -1,0 +1,7 @@
+210|0|a$lion,$greatly$desiring$to$capture$a$bull,$and$yet$afraid$to$attack$him$on$account$of$his$great$size,$resorted$to$a$trick$to$ensure$his$destruction.
+210|1|he$approached$the$bull$and$said,$"i$have$slain$a$fine$sheep,$my$friend;$and$if$you$will$come$home$and$partake$of$him$with$me,$i$shall$be$delighted$to$have$your$company."
+210|2|the$lion$said$this$in$the$hope$that,$as$the$bull$was$in$the$act$of$reclining$to$eat,$he$might$attack$him$to$advantage,$and$make$his$meal$on$him.
+210|3|the$bull,$on$approaching$the$lion's$den,$saw$the$huge$spits$and$giant$caldrons,$and$no$sign$whatever$of$the$sheep,$and,$without$saying$a$word,$quietly$took$his$departure.
+210|4|the$lion$inquired$why$he$went$off$so$abruptly$without$a$word$of$salutation$to$his$host,$who$had$not$given$him$any$cause$for$offense.
+210|5|"i$have$reasons$enough,"$said$the$bull.
+210|6|"i$see$no$indication$whatever$of$your$having$slaughtered$a$sheep,$while$i$do$see$very$plainly$every$preparation$for$your$dining$on$a$bull."

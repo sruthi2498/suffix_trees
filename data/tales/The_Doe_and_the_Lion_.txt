@@ -1,0 +1,4 @@
+142|0|a$doe$hard$pressed$by$hunters$sought$refuge$in$a$cave$belonging$to$a$lion.
+142|1|the$lion$concealed$himself$on$seeing$her$approach,$but$when$she$was$safe$within$the$cave,$sprang$upon$her$and$tore$her$to$pieces.
+142|2|"woe$is$me,"$exclaimed$the$doe,$"who$have$escaped$from$man,$only$to$throw$myself$into$the$mouth$of$a$wild$beast?'
+142|3|in$avoiding$one$evil,$care$must$be$taken$not$to$fall$into$another.

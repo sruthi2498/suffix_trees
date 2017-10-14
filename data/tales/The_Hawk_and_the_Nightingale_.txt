@@ -1,0 +1,3 @@
+207|0|a$nightingale,$sitting$aloft$upon$an$oak$and$singing$according$to$his$wont,$was$seen$by$a$hawk$who,$being$in$need$of$food,$swooped$down$and$seized$him.
+207|1|the$nightingale,$about$to$lose$his$life,$earnestly$begged$the$hawk$to$let$him$go,$saying$that$he$was$not$big$enough$to$satisfy$the$hunger$of$a$hawk$who,$if$he$wanted$food,$ought$to$pursue$the$larger$birds.
+207|2|the$hawk,$interrupting$him,$said:$$"i$should$indeed$have$lost$my$senses$if$i$should$let$go$food$ready$in$my$hand,$for$the$sake$of$pursuing$birds$which$are$not$yet$even$within$sight."

@@ -1,0 +1,5 @@
+113|0|a$great$city$was$besieged,$and$its$inhabitants$were$called$together$to$consider$the$best$means$of$protecting$it$from$the$enemy.
+113|1|a$bricklayer$earnestly$recommended$bricks$as$affording$the$best$material$for$an$effective$resistance.
+113|2|a$carpenter,$with$equal$enthusiasm,$proposed$timber$as$a$preferable$method$of$defense.
+113|3|upon$which$a$currier$stood$up$and$said,$"sirs,$i$differ$from$you$altogether:$$there$is$no$material$for$resistance$equal$to$a$covering$of$hides;$and$nothing$so$good$as$leather."
+113|4|every$man$for$himself.

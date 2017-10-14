@@ -1,0 +1,3 @@
+24|0|the$swallow$and$the$crow$had$a$contention$about$their$plumage.
+24|1|the$crow$put$an$end$to$the$dispute$by$saying,$"your$feathers$are$all$very$well$in$the$spring,$but$mine$protect$me$against$the$winter."
+24|2|fair$weather$friends$are$not$worth$much.

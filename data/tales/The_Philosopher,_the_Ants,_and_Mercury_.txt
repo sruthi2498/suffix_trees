@@ -1,0 +1,5 @@
+145|0|a$philosopher$witnessed$from$the$shore$the$shipwreck$of$a$vessel,$of$which$the$crew$and$passengers$were$all$drowned.
+145|1|he$inveighed$against$the$injustice$of$providence,$which$would$for$the$sake$of$one$criminal$perchance$sailing$in$the$ship$allow$so$many$innocent$persons$to$perish.
+145|2|as$he$was$indulging$in$these$reflections,$he$found$himself$surrounded$by$a$whole$army$of$ants,$near$whose$nest$he$was$standing.
+145|3|one$of$them$climbed$up$and$stung$him,$and$he$immediately$trampled$them$all$to$death$with$his$foot.
+145|4|mercury$presented$himself,$and$striking$the$philosopher$with$his$wand,$said,$"and$are$you$indeed$to$make$yourself$a$judge$of$the$dealings$of$providence,$who$hast$thyself$in$a$similar$manner$treated$these$poor$ants?'

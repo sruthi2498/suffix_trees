@@ -1,0 +1,8 @@
+298|0|a$panther,$by$some$mischance,$fell$into$a$pit.
+298|1|the$shepherds$discovered$him,$and$some$threw$sticks$at$him$and$pelted$him$with$stones,$while$others,$moved$with$compassion$towards$one$about$to$die$even$though$no$one$should$hurt$him,$threw$in$some$food$to$prolong$his$life.
+298|2|at$night$they$returned$home,$not$dreaming$of$any$danger,$but$supposing$that$on$the$morrow$they$would$find$him$dead.
+298|3|the$panther,$however,$when$he$had$recruited$his$feeble$strength,$freed$himself$with$a$sudden$bound$from$the$pit,$and$hastened$to$his$den$with$rapid$steps.
+298|4|after$a$few$days$he$came$forth$and$slaughtered$the$cattle,$and,$killing$the$shepherds$who$had$attacked$him,$raged$with$angry$fury.
+298|5|then$they$who$had$spared$his$life,$fearing$for$their$safety,$surrendered$to$him$their$flocks$and$begged$only$for$their$lives.
+298|6|to$them$the$panther$made$this$reply:$$"i$remember$alike$those$who$sought$my$life$with$stones,$and$those$who$gave$me$food$aside,$therefore,$your$fears.
+298|7|i$return$as$an$enemy$only$to$those$who$injured$me."

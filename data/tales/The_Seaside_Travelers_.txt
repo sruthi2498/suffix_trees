@@ -1,0 +1,4 @@
+123|0|some$travelers,$journeying$along$the$seashore,$climbed$to$the$summit$of$a$tall$cliff,$and$looking$over$the$sea,$saw$in$the$distance$what$they$thought$was$a$large$ship.
+123|1|they$waited$in$the$hope$of$seeing$it$enter$the$harbor,$but$as$the$object$on$which$they$looked$was$driven$nearer$to$shore$by$the$wind,$they$found$that$it$could$at$the$most$be$a$small$boat,$and$not$a$ship.
+123|2|when$however$it$reached$the$beach,$they$discovered$that$it$was$only$a$large$faggot$of$sticks,$and$one$of$them$said$to$his$companions,$"we$have$waited$for$no$purpose,$for$after$all$there$is$nothing$to$see$but$a$load$of$wood."
+123|3|our$mere$anticipations$of$life$outrun$its$realities.

@@ -1,0 +1,4 @@
+273|0|a$crow$in$great$want$of$food$saw$a$serpent$asleep$in$a$sunny$nook,$and$flying$down,$greedily$seized$him.
+273|1|the$serpent,$turning$about,$bit$the$crow$with$a$mortal$wound.
+273|2|in$the$agony$of$death,$the$bird$exclaimed:$$"o$unhappy$me!
+273|3|who$have$found$in$that$which$i$deemed$a$happy$windfall$the$source$of$my$destruction."

@@ -1,0 +1,7 @@
+262|0|a$peasant$had$in$his$garden$an$apple-tree$which$bore$no$fruit$but$only$served$as$a$harbor$for$the$sparrows$and$grasshoppers.
+262|1|he$resolved$to$cut$it$down,$and$taking$his$axe$in$his$hand,$made$a$bold$stroke$at$its$roots.
+262|2|the$grasshoppers$and$sparrows$entreated$him$not$to$cut$down$the$tree$that$sheltered$them,$but$to$spare$it,$and$they$would$sing$to$him$and$lighten$his$labors.
+262|3|he$paid$no$attention$to$their$request,$but$gave$the$tree$a$second$and$a$third$blow$with$his$axe.
+262|4|when$he$reached$the$hollow$of$the$tree,$he$found$a$hive$full$of$honey.
+262|5|having$tasted$the$honeycomb,$he$threw$down$his$axe,$and$looking$on$the$tree$as$sacred,$took$great$care$of$it.
+262|6|self-interest$alone$moves$some$men.

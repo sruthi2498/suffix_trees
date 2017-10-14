@@ -1,0 +1,5 @@
+183|0|a$hart,$hard$pressed$in$the$chase,$hid$himself$beneath$the$large$leaves$of$a$vine.
+183|1|the$huntsmen,$in$their$haste,$overshot$the$place$of$his$concealment.
+183|2|supposing$all$danger$to$have$passed,$the$hart$began$to$nibble$the$tendrils$of$the$vine.
+183|3|one$of$the$huntsmen,$attracted$by$the$rustling$of$the$leaves,$looked$back,$and$seeing$the$hart,$shot$an$arrow$from$his$bow$and$struck$it.
+183|4|the$hart,$at$the$point$of$death,$groaned:$$"i$am$rightly$served,$for$i$should$not$have$maltreated$the$vine$that$saved$me."

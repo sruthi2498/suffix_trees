@@ -1,0 +1,6 @@
+283|0|an$ant$went$to$the$bank$of$a$river$to$quench$its$thirst,$and$being$carried$away$by$the$rush$of$the$stream,$was$on$the$point$of$drowning.
+283|1|a$dove$sitting$on$a$tree$overhanging$the$water$plucked$a$leaf$and$let$it$fall$into$the$stream$close$to$her.
+283|2|the$ant$climbed$onto$it$and$floated$in$safety$to$the$bank.
+283|3|shortly$afterwards$a$birdcatcher$came$and$stood$under$the$tree,$and$laid$his$lime-twigs$for$the$dove,$which$sat$in$the$branches.
+283|4|the$ant,$perceiving$his$design,$stung$him$in$the$foot.
+283|5|in$pain$the$birdcatcher$threw$down$the$twigs,$and$the$noise$made$the$dove$take$wing.

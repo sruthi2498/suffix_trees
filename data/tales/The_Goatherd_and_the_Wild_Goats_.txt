@@ -1,0 +1,7 @@
+58|0|a$goatherd,$driving$his$flock$from$their$pasture$at$eventide,$found$some$wild$goats$mingled$among$them,$and$shut$them$up$together$with$his$own$for$the$night.
+58|1|the$next$day$it$snowed$very$hard,$so$that$he$could$not$take$the$herd$to$their$usual$feeding$places,$but$was$obliged$to$keep$them$in$the$fold.
+58|2|he$gave$his$own$goats$just$sufficient$food$to$keep$them$alive,$but$fed$the$strangers$more$abundantly$in$the$hope$of$enticing$them$to$stay$with$him$and$of$making$them$his$own.
+58|3|when$the$thaw$set$in,$he$led$them$all$out$to$feed,$and$the$wild$goats$scampered$away$as$fast$as$they$could$to$the$mountains.
+58|4|the$goatherd$scolded$them$for$their$ingratitude$in$leaving$him,$when$during$the$storm$he$had$taken$more$care$of$them$than$of$his$own$herd.
+58|5|one$of$them,$turning$about,$said$to$him:$$"that$is$the$very$reason$why$we$are$so$cautious;$for$if$you$yesterday$treated$us$better$than$the$goats$you$have$had$so$long,$it$is$plain$also$that$if$others$came$after$us,$you$would$in$the$same$manner$prefer$them$to$ourselves."
+58|6|old$friends$cannot$with$impunity$be$sacrificed$for$new$ones.

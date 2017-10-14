@@ -1,0 +1,6 @@
+140|0|a$certain$house$was$overrun$with$mice.
+140|1|a$cat,$discovering$this,$made$her$way$into$it$and$began$to$catch$and$eat$them$one$by$one.
+140|2|fearing$for$their$lives,$the$mice$kept$themselves$close$in$their$holes.
+140|3|the$cat$was$no$longer$able$to$get$at$them$and$perceived$that$she$must$tempt$them$forth$by$some$device.
+140|4|for$this$purpose$she$jumped$upon$a$peg,$and$suspending$herself$from$it,$pretended$to$be$dead.
+140|5|one$of$the$mice,$peeping$stealthily$out,$saw$her$and$said,$"ah,$my$good$madam,$even$though$you$should$turn$into$a$meal-bag,$we$will$not$come$near$you."

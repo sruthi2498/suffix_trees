@@ -1,0 +1,6 @@
+231|0|a$man$had$two$gamecocks$in$his$poultry-yard.
+231|1|one$day$by$chance$he$found$a$tame$partridge$for$sale.
+231|2|he$purchased$it$and$brought$it$home$to$be$reared$with$his$gamecocks.
+231|3|when$the$partridge$was$put$into$the$poultry-yard,$they$struck$at$it$and$followed$it$about,$so$that$the$partridge$became$grievously$troubled$and$supposed$that$he$was$thus$evilly$treated$because$he$was$a$stranger.
+231|4|not$long$afterwards$he$saw$the$cocks$fighting$together$and$not$separating$before$one$had$well$beaten$the$other.
+231|5|he$then$said$to$himself,$"i$shall$no$longer$distress$myself$at$being$struck$at$by$these$gamecocks,$when$i$see$that$they$cannot$even$refrain$from$quarreling$with$each$other."

@@ -1,0 +1,5 @@
+192|0|a$wizard,$sitting$in$the$marketplace,$was$telling$the$fortunes$of$the$passers-by$when$a$person$ran$up$in$great$haste,$and$announced$to$him$that$the$doors$of$his$house$had$been$broken$open$and$that$all$his$goods$were$being$stolen.
+192|1|he$sighed$heavily$and$hastened$away$as$fast$as$he$could$run.
+192|2|a$neighbor$saw$him$running$and$said,$"oh!
+192|3|you$fellow$there!
+192|4|you$say$you$can$foretell$the$fortunes$of$others;$how$is$it$you$did$not$foresee$your$own?'

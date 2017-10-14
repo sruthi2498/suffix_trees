@@ -1,0 +1,5 @@
+215|0|a$fly$sat$on$the$axle-tree$of$a$chariot,$and$addressing$the$draught-mule$said,$"how$slow$you$are!
+215|1|why$do$you$not$go$faster?
+215|2|see$if$i$do$not$prick$your$neck$with$my$sting."
+215|3|the$draught-mule$replied,$"i$do$not$heed$your$threats;$i$only$care$for$him$who$sits$above$you,$and$who$quickens$my$pace$with$his$whip,$or$holds$me$back$with$the$reins.
+215|4|away,$therefore,$with$your$insolence,$for$i$know$well$when$to$go$fast,$and$when$to$go$slow."

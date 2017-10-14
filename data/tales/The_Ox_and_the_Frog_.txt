@@ -1,0 +1,5 @@
+77|0|an$ox$drinking$at$a$pool$trod$on$a$brood$of$young$frogs$and$crushed$one$of$them$to$death.
+77|1|the$mother$coming$up,$and$missing$one$of$her$sons,$inquired$of$his$brothers$what$had$become$of$him.
+77|2|"he$is$dead,$dear$mother;$for$just$now$a$very$huge$beast$with$four$great$feet$came$to$the$pool$and$crushed$him$to$death$with$his$cloven$heel."
+77|3|the$frog,$puffing$herself$out,$inquired,$"if$the$beast$was$as$big$as$that$in$size."
+77|4|"cease,$mother,$to$puff$yourself$out,"$said$her$son,$"and$do$not$be$angry;$for$you$would,$i$assure$you,$sooner$burst$than$successfully$imitate$the$hugeness$of$that$monster."

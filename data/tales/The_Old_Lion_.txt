@@ -1,0 +1,5 @@
+119|0|a$lion,$worn$out$with$years$and$powerless$from$disease,$lay$on$the$ground$at$the$point$of$death.
+119|1|a$boar$rushed$upon$him,$and$avenged$with$a$stroke$of$his$tusks$a$long-remembered$injury.
+119|2|shortly$afterwards$the$bull$with$his$horns$gored$him$as$if$he$were$an$enemy.
+119|3|when$the$ass$saw$that$the$huge$beast$could$be$assailed$with$impunity,$he$let$drive$at$his$forehead$with$his$heels.
+119|4|the$expiring$lion$said,$"i$have$reluctantly$brooked$the$insults$of$the$brave,$but$to$be$compelled$to$endure$such$treatment$from$thee,$a$disgrace$to$nature,$is$indeed$to$die$a$double$death."

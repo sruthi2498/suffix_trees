@@ -1,0 +1,4 @@
+11|0|a$fisherman$skilled$in$music$took$his$flute$and$his$nets$to$the$seashore.
+11|1|standing$on$a$projecting$rock,$he$played$several$tunes$in$the$hope$that$the$fish,$attracted$by$his$melody,$would$of$their$own$accord$dance$into$his$net,$which$he$had$placed$below.
+11|2|at$last,$having$long$waited$in$vain,$he$laid$aside$his$flute,$and$casting$his$net$into$the$sea,$made$an$excellent$haul$of$fish.
+11|3|when$he$saw$them$leaping$about$in$the$net$upon$the$rock$he$said:$"o$you$most$perverse$creatures,$when$i$piped$you$would$not$dance,$but$now$that$i$have$ceased$you$do$so$merrily."

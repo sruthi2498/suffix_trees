@@ -1,0 +1,5 @@
+306|0|an$amaranth$planted$in$a$garden$near$a$rose-tree,$thus$addressed$it:$$"what$a$lovely$flower$is$the$rose,$a$favorite$alike$with$gods$and$with$men.
+306|1|i$envy$you$your$beauty$and$your$perfume."
+306|2|the$rose$replied,$"i$indeed,$dear$amaranth,$flourish$but$for$a$brief$season!
+306|3|if$no$cruel$hand$pluck$me$from$my$stem,$yet$i$must$perish$by$an$early$doom.
+306|4|but$thou$art$immortal$and$dost$never$fade,$but$bloomest$for$ever$in$renewed$youth."

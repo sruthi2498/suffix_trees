@@ -1,0 +1,7 @@
+2|0|a$bat$who$fell$upon$the$ground$and$was$caught$by$a$weasel$pleaded$to$be$spared$his$life.
+2|1|the$weasel$refused,$saying$that$he$was$by$nature$the$enemy$of$all$birds.
+2|2|the$bat$assured$him$that$he$was$not$a$bird,$but$a$mouse,$and$thus$was$set$free.
+2|3|shortly$afterwards$the$bat$again$fell$to$the$ground$and$was$caught$by$another$weasel,$whom$he$likewise$entreated$not$to$eat$him.
+2|4|the$weasel$said$that$he$had$a$special$hostility$to$mice.
+2|5|the$bat$assured$him$that$he$was$not$a$mouse,$but$a$bat,$and$thus$a$second$time$escaped.
+2|6|it$is$wise$to$turn$circumstances$to$good$account.

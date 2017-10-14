@@ -1,0 +1,3 @@
+284|0|a$fowler$caught$a$partridge$and$was$about$to$kill$it.
+284|1|the$partridge$earnestly$begged$him$to$spare$his$life,$saying,$"pray,$master,$permit$me$to$live$and$i$will$entice$many$partridges$to$you$in$recompense$for$your$mercy$to$me."
+284|2|the$fowler$replied,$"i$shall$now$with$less$scruple$take$your$life,$because$you$are$willing$to$save$it$at$the$cost$of$betraying$your$friends$and$relations."

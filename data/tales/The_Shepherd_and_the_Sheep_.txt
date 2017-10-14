@@ -1,0 +1,4 @@
+259|0|a$shepherd$driving$his$sheep$to$a$wood,$saw$an$oak$of$unusual$size$full$of$acorns,$and$spreading$his$cloak$under$the$branches,$he$climbed$up$into$the$tree$and$shook$them$down.
+259|1|the$sheep$eating$the$acorns$inadvertently$frayed$and$tore$the$cloak.
+259|2|when$the$shepherd$came$down$and$saw$what$was$done,$he$said,$"o$you$most$ungrateful$creatures!
+259|3|you$provide$wool$to$make$garments$for$all$other$men,$but$you$destroy$the$clothes$of$him$who$feeds$you."

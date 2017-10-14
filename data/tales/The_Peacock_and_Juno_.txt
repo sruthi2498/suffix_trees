@@ -1,0 +1,6 @@
+206|0|the$peacock$made$complaint$to$juno$that,$while$the$nightingale$pleased$every$ear$with$his$song,$he$himself$no$sooner$opened$his$mouth$than$he$became$a$laughingstock$to$all$who$heard$him.
+206|1|the$goddess,$to$console$him,$said,$"but$you$far$excel$in$beauty$and$in$size.
+206|2|the$splendor$of$the$emerald$shines$in$your$neck$and$you$unfold$a$tail$gorgeous$with$painted$plumage."
+206|3|"but$for$what$purpose$have$i,"$said$the$bird,$"this$dumb$beauty$so$long$as$i$am$surpassed$in$song?'
+206|4|"the$lot$of$each,"$replied$juno,$"has$been$assigned$by$the$will$of$the$fates--to$thee,$beauty;$to$the$eagle,$strength;$to$the$nightingale,$song;$to$the$raven,$favorable,$and$to$the$crow,$unfavorable$auguries.
+206|5|these$are$all$contented$with$the$endowments$allotted$to$them."

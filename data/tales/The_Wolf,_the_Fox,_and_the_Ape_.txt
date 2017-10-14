@@ -1,0 +1,4 @@
+214|0|a$wolf$accused$a$fox$of$theft,$but$the$fox$entirely$denied$the$charge.
+214|1|an$ape$undertook$to$adjudge$the$matter$between$them.
+214|2|when$each$had$fully$stated$his$case$the$ape$announced$this$sentence:$$"i$do$not$think$you,$wolf,$ever$lost$what$you$claim;$and$i$do$believe$you,$fox,$to$have$stolen$what$you$so$stoutly$deny."
+214|3|the$dishonest,$if$they$act$honestly,$get$no$credit.

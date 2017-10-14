@@ -1,0 +1,5 @@
+218|0|a$fowler,$taking$his$bird-lime$and$his$twigs,$went$out$to$catch$birds.
+218|1|seeing$a$thrush$sitting$upon$a$tree,$he$wished$to$take$it,$and$fitting$his$twigs$to$a$proper$length,$watched$intently,$having$his$whole$thoughts$directed$towards$the$sky.
+218|2|while$thus$looking$upwards,$he$unknowingly$trod$upon$a$viper$asleep$just$before$his$feet.
+218|3|the$viper,$turning$about,$stung$him,$and$falling$into$a$swoon,$the$man$said$to$himself,$"woe$is$me!
+218|4|that$while$i$purposed$to$hunt$another,$i$am$myself$fallen$unawares$into$the$snares$of$death."

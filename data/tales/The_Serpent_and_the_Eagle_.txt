@@ -1,0 +1,5 @@
+184|0|a$serpent$and$an$eagle$were$struggling$with$each$other$in$deadly$conflict.
+184|1|the$serpent$had$the$advantage,$and$was$about$to$strangle$the$bird.
+184|2|a$countryman$saw$them,$and$running$up,$loosed$the$coil$of$the$serpent$and$let$the$eagle$go$free.
+184|3|the$serpent,$irritated$at$the$escape$of$his$prey,$injected$his$poison$into$the$drinking$horn$of$the$countryman.
+184|4|the$rustic,$ignorant$of$his$danger,$was$about$to$drink,$when$the$eagle$struck$his$hand$with$his$wing,$and,$seizing$the$drinking$horn$in$his$talons,$carried$it$aloft.

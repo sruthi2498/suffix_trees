@@ -1,0 +1,4 @@
+305|0|a$thrush$was$feeding$on$a$myrtle-tree$and$did$not$move$from$it$because$its$berries$were$so$delicious.
+305|1|a$fowler$observed$her$staying$so$long$in$one$spot,$and$having$well$bird-limed$his$reeds,$caught$her.
+305|2|the$thrush,$being$at$the$point$of$death,$exclaimed,$"o$foolish$creature$that$i$am!
+305|3|for$the$sake$of$a$little$pleasant$food$i$have$deprived$myself$of$my$life."

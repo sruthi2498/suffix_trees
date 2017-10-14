@@ -1,0 +1,11 @@
+136|0|a$birdcatcher$was$about$to$sit$down$to$a$dinner$of$herbs$when$a$friend$unexpectedly$came$in.
+136|1|the$bird-trap$was$quite$empty,$as$he$had$caught$nothing,$and$he$had$to$kill$a$pied$partridge,$which$he$had$tamed$for$a$decoy.
+136|2|the$bird$entreated$earnestly$for$his$life:$$"what$would$you$do$without$me$when$next$you$spread$your$nets?
+136|3|who$would$chirp$you$to$sleep,$or$call$for$you$the$covey$of$answering$birds?'
+136|4|the$birdcatcher$spared$his$life,$and$determined$to$pick$out$a$fine$young$cock$just$attaining$to$his$comb.
+136|5|but$the$cock$expostulated$in$piteous$tones$from$his$perch:$$"if$you$kill$me,$who$will$announce$to$you$the$appearance$of$the$dawn?
+136|6|who$will$wake$you$to$your$daily$tasks$or$tell$you$when$it$is$time$to$visit$the$bird-trap$in$the$morning?'
+136|7|he$replied,$"what$you$say$is$true.
+136|8|you$are$a$capital$bird$at$telling$the$time$of$day.
+136|9|but$my$friend$and$i$must$have$our$dinners."
+136|10|necessity$knows$no$law.

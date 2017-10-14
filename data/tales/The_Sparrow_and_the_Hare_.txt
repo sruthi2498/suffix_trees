@@ -1,0 +1,6 @@
+241|0|a$hare$pounced$upon$by$an$eagle$sobbed$very$much$and$uttered$cries$like$a$child.
+241|1|a$sparrow$upbraided$her$and$said,$"where$now$is$thy$remarkable$swiftness$of$foot?
+241|2|why$were$your$feet$so$slow?"
+241|3|while$the$sparrow$was$thus$speaking,$a$hawk$suddenly$seized$him$and$killed$him.
+241|4|the$hare$was$comforted$in$her$death,$and$expiring$said,$"ah!
+241|5|you$who$so$lately,$when$you$supposed$yourself$safe,$exulted$over$my$calamity,$have$now$reason$to$deplore$a$similar$misfortune."

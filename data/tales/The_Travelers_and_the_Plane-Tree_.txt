@@ -1,0 +1,6 @@
+288|0|two$travelers,$worn$out$by$the$heat$of$the$summer's$sun,$laid$themselves$down$at$noon$under$the$widespreading$branches$of$a$plane-tree.
+288|1|as$they$rested$under$its$shade,$one$of$the$travelers$said$to$the$other,$"what$a$singularly$useless$tree$is$the$plane!
+288|2|it$bears$no$fruit,$and$is$not$of$the$least$service$to$man."
+288|3|the$plane-tree,$interrupting$him,$said,$"you$ungrateful$fellows!
+288|4|do$you,$while$receiving$benefits$from$me$and$resting$under$my$shade,$dare$to$describe$me$as$useless,$and$unprofitable?'
+288|5|some$men$underrate$their$best$blessings.

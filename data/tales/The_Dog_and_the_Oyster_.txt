@@ -1,0 +1,3 @@
+282|0|a$dog,$used$to$eating$eggs,$saw$an$oyster$and,$opening$his$mouth$to$its$widest$extent,$swallowed$it$down$with$the$utmost$relish,$supposing$it$to$be$an$egg.
+282|1|soon$afterwards$suffering$great$pain$in$his$stomach,$he$said,$"i$deserve$all$this$torment,$for$my$folly$in$thinking$that$everything$round$must$be$an$egg."
+282|2|they$who$act$without$sufficient$thought,$will$often$fall$into$unsuspected$danger.

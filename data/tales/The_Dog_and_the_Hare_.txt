@@ -1,0 +1,5 @@
+175|0|a$hound$having$started$a$hare$on$the$hillside$pursued$her$for$some$distance,$at$one$time$biting$her$with$his$teeth$as$if$he$would$take$her$life,$and$at$another$fawning$upon$her,$as$if$in$play$with$another$dog.
+175|1|the$hare$said$to$him,$"i$wish$you$would$act$sincerely$by$me,$and$show$yourself$in$your$true$colors.
+175|2|if$you$are$a$friend,$why$do$you$bite$me$so$hard?
+175|3|if$an$enemy,$why$do$you$fawn$on$me?'
+175|4|no$one$can$be$a$friend$if$you$know$not$whether$to$trust$or$distrust$him.

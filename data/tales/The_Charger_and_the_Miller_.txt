@@ -1,0 +1,4 @@
+67|0|a$charger,$feeling$the$infirmities$of$age,$was$sent$to$work$in$a$mill$instead$of$going$out$to$battle.
+67|1|but$when$he$was$compelled$to$grind$instead$of$serving$in$the$wars,$he$bewailed$his$change$of$fortune$and$called$to$mind$his$former$state,$saying,$"ah!
+67|2|miller,$i$had$indeed$to$go$campaigning$before,$but$i$was$barbed$from$counter$to$tail,$and$a$man$went$along$to$groom$me;$and$now$i$cannot$understand$what$ailed$me$to$prefer$the$mill$before$the$battle."
+67|3|"forbear,"$said$the$miller$to$him,$"harping$on$what$was$of$yore,$for$it$is$the$common$lot$of$mortals$to$sustain$the$ups$and$downs$of$fortune."

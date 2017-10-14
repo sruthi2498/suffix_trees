@@ -1,0 +1,13 @@
+195|0|two$men,$one$who$always$spoke$the$truth$and$the$other$who$told$nothing$but$lies,$were$traveling$together$and$by$chance$came$to$the$land$of$apes.
+195|1|one$of$the$apes,$who$had$raised$himself$to$be$king,$commanded$them$to$be$seized$and$brought$before$him,$that$he$might$know$what$was$said$of$him$among$men.
+195|2|he$ordered$at$the$same$time$that$all$the$apes$be$arranged$in$a$long$row$on$his$right$hand$and$on$his$left,$and$that$a$throne$be$placed$for$him,$as$was$the$custom$among$men.
+195|3|after$these$preparations$he$signified$that$the$two$men$should$be$brought$before$him,$and$greeted$them$with$this$salutation:$$"what$sort$of$a$king$do$i$seem$to$you$to$be,$o$strangers?'
+195|4|the$lying$traveler$replied,$"you$seem$to$me$a$most$mighty$king."
+195|5|"and$what$is$your$estimate$of$those$you$see$around$me?'
+195|6|"these,"$he$made$answer,$"are$worthy$companions$of$yourself,$fit$at$least$to$be$ambassadors$and$leaders$of$armies."
+195|7|the$ape$and$all$his$court,$gratified$with$the$lie,$commanded$that$a$handsome$present$be$given$to$the$flatterer.
+195|8|on$this$the$truthful$traveler$thought$to$himself,$"if$so$great$a$reward$be$given$for$a$lie,$with$what$gift$may$not$i$be$rewarded,$if,$according$to$my$custom,$i$tell$the$truth?'
+195|9|the$ape$quickly$turned$to$him.
+195|10|"and$pray$how$do$i$and$these$my$friends$around$me$seem$to$you?'
+195|11|"thou$art,"$he$said,$"a$most$excellent$ape,$and$all$these$thy$companions$after$thy$example$are$excellent$apes$too."
+195|12|the$king$of$the$apes,$enraged$at$hearing$these$truths,$gave$him$over$to$the$teeth$and$claws$of$his$companions.

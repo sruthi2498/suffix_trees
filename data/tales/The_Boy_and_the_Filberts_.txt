@@ -1,0 +1,5 @@
+46|0|a$boy$put$his$hand$into$a$pitcher$full$of$filberts.
+46|1|he$grasped$as$many$as$he$could$possibly$hold,$but$when$he$tried$to$pull$out$his$hand,$he$was$prevented$from$doing$so$by$the$neck$of$the$pitcher.
+46|2|unwilling$to$lose$his$filberts,$and$yet$unable$to$withdraw$his$hand,$he$burst$into$tears$and$bitterly$lamented$his$disappointment.
+46|3|a$bystander$said$to$him,$"be$satisfied$with$half$the$quantity,$and$you$will$readily$draw$out$your$hand."
+46|4|do$not$attempt$too$much$at$once.

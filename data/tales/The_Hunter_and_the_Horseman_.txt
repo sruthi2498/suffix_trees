@@ -1,0 +1,6 @@
+274|0|a$certain$hunter,$having$snared$a$hare,$placed$it$upon$his$shoulders$and$set$out$homewards.
+274|1|on$his$way$he$met$a$man$on$horseback$who$begged$the$hare$of$him,$under$the$pretense$of$purchasing$it.
+274|2|however,$when$the$horseman$got$the$hare,$he$rode$off$as$fast$as$he$could.
+274|3|the$hunter$ran$after$him,$as$if$he$was$sure$of$overtaking$him,$but$the$horseman$increased$more$and$more$the$distance$between$them.
+274|4|the$hunter,$sorely$against$his$will,$called$out$to$him$and$said,$"get$along$with$you!
+274|5|for$i$will$now$make$you$a$present$of$the$hare."

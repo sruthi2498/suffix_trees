@@ -1,0 +1,5 @@
+196|0|a$wolf$followed$a$flock$of$sheep$for$a$long$time$and$did$not$attempt$to$injure$one$of$them.
+196|1|the$shepherd$at$first$stood$on$his$guard$against$him,$as$against$an$enemy,$and$kept$a$strict$watch$over$his$movements.
+196|2|but$when$the$wolf,$day$after$day,$kept$in$the$company$of$the$sheep$and$did$not$make$the$slightest$effort$to$seize$them,$the$shepherd$began$to$look$upon$him$as$a$guardian$of$his$flock$rather$than$as$a$plotter$of$evil$against$it;$and$when$occasion$called$him$one$day$into$the$city,$he$left$the$sheep$entirely$in$his$charge.
+196|3|the$wolf,$now$that$he$had$the$opportunity,$fell$upon$the$sheep,$and$destroyed$the$greater$part$of$the$flock.
+196|4|when$the$shepherd$returned$to$find$his$flock$destroyed,$he$exclaimed:$$"i$have$been$rightly$served;$why$did$i$trust$my$sheep$to$a$wolf?'

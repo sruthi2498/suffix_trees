@@ -1,0 +1,5 @@
+137|0|a$monkey$perched$upon$a$lofty$tree$saw$some$fishermen$casting$their$nets$into$a$river,$and$narrowly$watched$their$proceedings.
+137|1|the$fishermen$after$a$while$gave$up$fishing,$and$on$going$home$to$dinner$left$their$nets$upon$the$bank.
+137|2|the$monkey,$who$is$the$most$imitative$of$animals,$descended$from$the$treetop$and$endeavored$to$do$as$they$had$done.
+137|3|having$handled$the$net,$he$threw$it$into$the$river,$but$became$tangled$in$the$meshes$and$drowned.
+137|4|with$his$last$breath$he$said$to$himself,$"i$am$rightly$served;$for$what$business$had$i$who$had$never$handled$a$net$to$try$and$catch$fish?'

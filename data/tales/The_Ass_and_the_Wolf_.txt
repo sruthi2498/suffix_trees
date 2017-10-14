@@ -1,0 +1,6 @@
+202|0|an$ass$feeding$in$a$meadow$saw$a$wolf$approaching$to$seize$him,$and$immediately$pretended$to$be$lame.
+202|1|the$wolf,$coming$up,$inquired$the$cause$of$his$lameness.
+202|2|the$ass$replied$that$passing$through$a$hedge$he$had$trod$with$his$foot$upon$a$sharp$thorn.
+202|3|he$requested$that$the$wolf$pull$it$out,$lest$when$he$ate$him$it$should$injure$his$throat.
+202|4|the$wolf$consented$and$lifted$up$the$foot,$and$was$giving$his$whole$mind$to$the$discovery$of$the$thorn,$when$the$ass,$with$his$heels,$kicked$his$teeth$into$his$mouth$and$galloped$away.
+202|5|the$wolf,$being$thus$fearfully$mauled,$said,$"i$am$rightly$served,$for$why$did$i$attempt$the$art$of$healing,$when$my$father$only$taught$me$the$trade$of$a$butcher?'

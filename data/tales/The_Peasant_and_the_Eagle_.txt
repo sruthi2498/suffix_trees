@@ -1,0 +1,4 @@
+148|0|a$peasant$found$an$eagle$captured$in$a$trap,$and$much$admiring$the$bird,$set$him$free.
+148|1|the$eagle$did$not$prove$ungrateful$to$his$deliverer,$for$seeing$the$peasant$sitting$under$a$wall$which$was$not$safe,$he$flew$toward$him$and$with$his$talons$snatched$a$bundle$from$his$head.
+148|2|when$the$peasant$rose$in$pursuit,$the$eagle$let$the$bundle$fall$again.
+148|3|taking$it$up,$the$man$returned$to$the$same$place,$to$find$that$the$wall$under$which$he$had$been$sitting$had$fallen$to$pieces;$and$he$marveled$at$the$service$rendered$him$by$the$eagle.

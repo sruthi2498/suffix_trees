@@ -1,0 +1,5 @@
+267|0|a$wayfaring$man,$traveling$in$the$desert,$met$a$woman$standing$alone$and$terribly$dejected.
+267|1|he$inquired$of$her,$"who$art$thou?"
+267|2|"my$name$is$truth,"$she$replied.
+267|3|"and$for$what$cause,"$he$asked,$"have$you$left$the$city$to$dwell$alone$here$in$the$wilderness?"
+267|4|she$made$answer,$"because$in$former$times,$falsehood$was$with$few,$but$is$now$with$all$men."

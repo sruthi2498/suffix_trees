@@ -1,0 +1,7 @@
+246|0|an$eagle,$flying$down$from$his$perch$on$a$lofty$rock,$seized$upon$a$lamb$and$carried$him$aloft$in$his$talons.
+246|1|a$jackdaw,$who$witnessed$the$capture$of$the$lamb,$was$stirred$with$envy$and$determined$to$emulate$the$strength$and$flight$of$the$eagle.
+246|2|he$flew$around$with$a$great$whir$of$his$wings$and$settled$upon$a$large$ram,$with$the$intention$of$carrying$him$off,$but$his$claws$became$entangled$in$the$ram's$fleece$and$he$was$not$able$to$release$himself,$although$he$fluttered$with$his$feathers$as$much$as$he$could.
+246|3|the$shepherd,$seeing$what$had$happened,$ran$up$and$caught$him.
+246|4|he$at$once$clipped$the$jackdaw's$wings,$and$taking$him$home$at$night,$gave$him$to$his$children.
+246|5|on$their$saying,$"father,$what$kind$of$bird$is$it?'
+246|6|he$replied,$"to$my$certain$knowledge$he$is$a$daw;$but$he$would$like$you$to$think$an$eagle."

@@ -1,0 +1,5 @@
+30|0|some$cranes$made$their$feeding$grounds$on$some$plowlands$newly$sown$with$wheat.
+30|1|for$a$long$time$the$farmer,$brandishing$an$empty$sling,$chased$them$away$by$the$terror$he$inspired;$but$when$the$birds$found$that$the$sling$was$only$swung$in$the$air,$they$ceased$to$take$any$notice$of$it$and$would$not$move.
+30|2|the$farmer,$on$seeing$this,$charged$his$sling$with$stones,$and$killed$a$great$number.
+30|3|the$remaining$birds$at$once$forsook$his$fields,$crying$to$each$other,$"it$is$time$for$us$to$be$off$to$liliput:$$for$this$man$is$no$longer$content$to$scare$us,$but$begins$to$show$us$in$earnest$what$he$can$do."
+30|4|if$words$suffice$not,$blows$must$follow.

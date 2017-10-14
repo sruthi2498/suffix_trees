@@ -1,0 +1,5 @@
+26|0|the$ass$and$the$fox,$having$entered$into$partnership$together$for$their$mutual$protection,$went$out$into$the$forest$to$hunt.
+26|1|they$had$not$proceeded$far$when$they$met$a$lion.
+26|2|the$fox,$seeing$imminent$danger,$approached$the$lion$and$promised$to$contrive$for$him$the$capture$of$the$ass$if$the$lion$would$pledge$his$word$not$to$harm$the$fox.
+26|3|then,$upon$assuring$the$ass$that$he$would$not$be$injured,$the$fox$led$him$to$a$deep$pit$and$arranged$that$he$should$fall$into$it.
+26|4|the$lion,$seeing$that$the$ass$was$secured,$immediately$clutched$the$fox,$and$attacked$the$ass$at$his$leisure.

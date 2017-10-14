@@ -1,0 +1,15 @@
+290|0|the$lion$wearied$jupiter$with$his$frequent$complaints.
+290|1|"it$is$true,$o$jupiter!"
+290|2|he$said,$"that$i$am$gigantic$in$strength,$handsome$in$shape,$and$powerful$in$attack.
+290|3|i$have$jaws$well$provided$with$teeth,$and$feet$furnished$with$claws,$and$i$lord$it$over$all$the$beasts$of$the$forest,$and$what$a$disgrace$it$is,$that$being$such$as$i$am,$i$should$be$frightened$by$the$crowing$of$a$cock."
+290|4|jupiter$replied,$"why$do$you$blame$me$without$a$cause?
+290|5|i$have$given$you$all$the$attributes$which$i$possess$myself,$and$your$courage$never$fails$you$except$in$this$one$instance."
+290|6|on$hearing$this$the$lion$groaned$and$lamented$very$much$and,$reproaching$himself$with$his$cowardice,$wished$that$he$might$die.
+290|7|as$these$thoughts$passed$through$his$mind,$he$met$an$elephant$and$came$close$to$hold$a$conversation$with$him.
+290|8|after$a$time$he$observed$that$the$elephant$shook$his$ears$very$often,$and$he$inquired$what$was$the$matter$and$why$his$ears$moved$with$such$a$tremor$every$now$and$then.
+290|9|just$at$that$moment$a$gnat$settled$on$the$head$of$the$elephant,$and$he$replied,$"do$you$see$that$little$buzzing$insect?
+290|10|if$it$enters$my$ear,$my$fate$is$sealed.
+290|11|i$should$die$presently."
+290|12|the$lion$said,$"well,$since$so$huge$a$beast$is$afraid$of$a$tiny$gnat,$i$will$no$more$complain,$nor$wish$myself$dead.
+290|13|i$find$myself,$even$as$i$am,$better$off$than$the$elephant."
+290|14|ftp://foo.bar/bla

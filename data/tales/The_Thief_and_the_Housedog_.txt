@@ -1,0 +1,4 @@
+193|0|a$thief$came$in$the$night$to$break$into$a$house.
+193|1|he$brought$with$him$several$slices$of$meat$in$order$to$pacify$the$housedog,$so$that$he$would$not$alarm$his$master$by$barking.
+193|2|as$the$thief$threw$him$the$pieces$of$meat,$the$dog$said,$"if$you$think$to$stop$my$mouth,$you$will$be$greatly$mistaken.
+193|3|this$sudden$kindness$at$your$hands$will$only$make$me$more$watchful,$lest$under$these$unexpected$favors$to$myself,$you$have$some$private$ends$to$accomplish$for$your$own$benefit,$and$for$my$master's$injury."

@@ -1,0 +1,10 @@
+1|0|wolf,$meeting$with$a$lamb$astray$from$the$fold,$resolved$not$to$lay$violent$hands$on$him,$but$to$find$some$plea$to$justify$to$the$lamb$the$wolf's$right$to$eat$him.
+1|1|he$thus$addressed$him:$"sirrah,$last$year$you$grossly$insulted$me."
+1|2|"indeed,"$bleated$the$lamb$in$a$mournful$tone$of$voice,$"i$was$not$then$born."
+1|3|then$said$the$wolf,$"you$feed$in$my$pasture."
+1|4|"no,$good$sir,"$replied$the$lamb,$"i$have$not$yet$tasted$grass."
+1|5|again$said$the$wolf,$"you$drink$of$my$well."
+1|6|"no,"$exclaimed$the$lamb,$"i$never$yet$drank$water,$for$as$yet$my$mother's$milk$is$both$food$and$drink$to$me."
+1|7|upon$which$the$wolf$seized$him$and$ate$him$up,$saying,$"well!
+1|8|i$won't$remain$supperless,$even$though$you$refute$every$one$of$my$imputations."
+1|9|the$tyrant$will$always$find$a$pretext$for$his$tyranny.

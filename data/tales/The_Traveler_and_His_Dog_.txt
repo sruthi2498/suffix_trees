@@ -1,0 +1,6 @@
+14|0|a$traveler$about$to$set$out$on$a$journey$saw$his$dog$stand$at$the$door$stretching$himself.
+14|1|he$asked$him$sharply:$$"why$do$you$stand$there$gaping?
+14|2|everything$is$ready$but$you,$so$come$with$me$instantly."
+14|3|the$dog,$wagging$his$tail,$replied:$$"o,$master!
+14|4|i$am$quite$ready;$it$is$you$for$whom$i$am$waiting."
+14|5|the$loiterer$often$blames$delay$on$his$more$active$friend.

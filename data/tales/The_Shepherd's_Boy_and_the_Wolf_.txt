@@ -1,0 +1,7 @@
+74|0|a$shepherd-boy,$who$watched$a$flock$of$sheep$near$a$village,$brought$out$the$villagers$three$or$four$times$by$crying$out,$"wolf!
+74|1|wolf!"
+74|2|and$when$his$neighbors$came$to$help$him,$laughed$at$them$for$their$pains.
+74|3|the$wolf,$however,$did$truly$come$at$last.
+74|4|the$shepherd-boy,$now$really$alarmed,$shouted$in$an$agony$of$terror:$$"pray,$do$come$and$help$me;$the$wolf$is$killing$the$sheep";$but$no$one$paid$any$heed$to$his$cries,$nor$rendered$any$assistance.
+74|5|the$wolf,$having$no$cause$of$fear,$at$his$leisure$lacerated$or$destroyed$the$whole$flock.
+74|6|there$is$no$believing$a$liar,$even$when$he$speaks$the$truth.

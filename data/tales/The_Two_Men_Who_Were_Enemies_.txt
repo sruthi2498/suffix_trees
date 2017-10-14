@@ -1,0 +1,4 @@
+230|0|two$men,$deadly$enemies$to$each$other,$were$sailing$in$the$same$vessel.
+230|1|determined$to$keep$as$far$apart$as$possible,$the$one$seated$himself$in$the$stem,$and$the$other$in$the$prow$of$the$ship.
+230|2|a$violent$storm$arose,$and$with$the$vessel$in$great$danger$of$sinking,$the$one$in$the$stern$inquired$of$the$pilot$which$of$the$two$ends$of$the$ship$would$go$down$first.
+230|3|on$his$replying$that$he$supposed$it$would$be$the$prow,$the$man$said,$"death$would$not$be$grievous$to$me,$if$i$could$only$see$my$enemy$die$before$me."

@@ -1,0 +1,5 @@
+263|0|two$soldiers$traveling$together$were$set$upon$by$a$robber.
+263|1|the$one$fled$away;$the$other$stood$his$ground$and$defended$himself$with$his$stout$right$hand.
+263|2|the$robber$being$slain,$the$timid$companion$ran$up$and$drew$his$sword,$and$then,$throwing$back$his$traveling$cloak$said,$"i'll$at$him,$and$i'll$take$care$he$shall$learn$whom$he$has$attacked."
+263|3|on$this,$he$who$had$fought$with$the$robber$made$answer,$"i$only$wish$that$you$had$helped$me$just$now,$even$if$it$had$been$only$with$those$words,$for$i$should$have$been$the$more$encouraged,$believing$them$to$be$true;$but$now$put$up$your$sword$in$its$sheath$and$hold$your$equally$useless$tongue,$till$you$can$deceive$others$who$do$not$know$you.
+263|4|i,$indeed,$who$have$experienced$with$what$speed$you$run$away,$know$right$well$that$no$dependence$can$be$placed$on$your$valor."

@@ -1,0 +1,4 @@
+187|0|a$walnut$tree$standing$by$the$roadside$bore$an$abundant$crop$of$fruit.
+187|1|for$the$sake$of$the$nuts,$the$passers-by$broke$its$branches$with$stones$and$sticks.
+187|2|the$walnut-tree$piteously$exclaimed,$"o$wretched$me!
+187|3|that$those$whom$i$cheer$with$my$fruit$should$repay$me$with$these$painful$requitals!"

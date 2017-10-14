@@ -1,0 +1,3 @@
+161|0|the$woodcutter$cut$down$a$mountain$oak$and$split$it$in$pieces,$making$wedges$of$its$own$branches$for$dividing$the$trunk.
+161|1|the$oak$said$with$a$sigh,$"i$do$not$care$about$the$blows$of$the$axe$aimed$at$my$roots,$but$i$do$grieve$at$being$torn$in$pieces$by$these$wedges$made$from$my$own$branches."
+161|2|misfortunes$springing$from$ourselves$are$the$hardest$to$bear.

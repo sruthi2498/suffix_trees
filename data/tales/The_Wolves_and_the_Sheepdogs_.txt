@@ -1,0 +1,6 @@
+170|0|the$wolves$thus$addressed$the$sheepdogs:$$"why$should$you,$who$are$like$us$in$so$many$things,$not$be$entirely$of$one$mind$with$us,$and$live$with$us$as$brothers$should?
+170|1|we$differ$from$you$in$one$point$only.
+170|2|we$live$in$freedom,$but$you$bow$down$to$and$slave$for$men,$who$in$return$for$your$services$flog$you$with$whips$and$put$collars$on$your$necks.
+170|3|they$make$you$also$guard$their$sheep,$and$while$they$eat$the$mutton$throw$only$the$bones$to$you.
+170|4|if$you$will$be$persuaded$by$us,$you$will$give$us$the$sheep,$and$we$will$enjoy$them$in$common,$till$we$all$are$surfeited."
+170|5|the$dogs$listened$favorably$to$these$proposals,$and,$entering$the$den$of$the$wolves,$they$were$set$upon$and$torn$to$pieces.

@@ -1,0 +1,9 @@
+39|0|a$lion,$unable$from$old$age$and$infirmities$to$provide$himself$with$food$by$force,$resolved$to$do$so$by$artifice.
+39|1|he$returned$to$his$den,$and$lying$down$there,$pretended$to$be$sick,$taking$care$that$his$sickness$should$be$publicly$known.
+39|2|the$beasts$expressed$their$sorrow,$and$came$one$by$one$to$his$den,$where$the$lion$devoured$them.
+39|3|after$many$of$the$beasts$had$thus$disappeared,$the$fox$discovered$the$trick$and$presenting$himself$to$the$lion,$stood$on$the$outside$of$the$cave,$at$a$respectful$distance,$and$asked$him$how$he$was.
+39|4|"i$am$very$middling,"$replied$the$lion,$"but$why$do$you$stand$without?
+39|5|pray$enter$within$to$talk$with$me."
+39|6|"no,$thank$you,"$said$the$fox.
+39|7|"i$notice$that$there$are$many$prints$of$feet$entering$your$cave,$but$i$see$no$trace$of$any$returning."
+39|8|he$is$wise$who$is$warned$by$the$misfortunes$of$others.

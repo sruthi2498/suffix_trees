@@ -1,0 +1,5 @@
+222|0|a$blind$man$was$accustomed$to$distinguishing$different$animals$by$touching$them$with$his$hands.
+222|1|the$whelp$of$a$wolf$was$brought$him,$with$a$request$that$he$would$feel$it,$and$say$what$it$was.
+222|2|he$felt$it,$and$being$in$doubt,$said:$$"i$do$not$quite$know$whether$it$is$the$cub$of$a$fox,$or$the$whelp$of$a$wolf,$but$this$i$know$full$well.
+222|3|it$would$not$be$safe$to$admit$him$to$the$sheepfold."
+222|4|evil$tendencies$are$shown$in$early$life.

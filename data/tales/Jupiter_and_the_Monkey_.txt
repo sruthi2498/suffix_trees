@@ -1,0 +1,4 @@
+72|0|jupiter$issued$a$proclamation$to$all$the$beasts$of$the$forest$and$promised$a$royal$reward$to$the$one$whose$offspring$should$be$deemed$the$handsomest.
+72|1|the$monkey$came$with$the$rest$and$presented,$with$all$a$mother's$tenderness,$a$flat-nosed,$hairless,$ill-featured$young$monkey$as$a$candidate$for$the$promised$reward.
+72|2|a$general$laugh$saluted$her$on$the$presentation$of$her$son.
+72|3|she$resolutely$said,$"i$know$not$whether$jupiter$will$allot$the$prize$to$my$son,$but$this$i$do$know,$that$he$is$at$least$in$the$eyes$of$me$his$mother,$the$dearest,$handsomest,$and$most$beautiful$of$all."

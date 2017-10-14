@@ -1,0 +1,4 @@
+85|0|an$old$man$was$employed$in$cutting$wood$in$the$forest,$and,$in$carrying$the$faggots$to$the$city$for$sale$one$day,$became$very$wearied$with$his$long$journey.
+85|1|he$sat$down$by$the$wayside,$and$throwing$down$his$load,$besought$"death"$to$come.
+85|2|"death"$immediately$appeared$in$answer$to$his$summons$and$asked$for$what$reason$he$had$called$him.
+85|3|the$old$man$hurriedly$replied,$"that,$lifting$up$the$load,$you$may$place$it$again$upon$my$shoulders."

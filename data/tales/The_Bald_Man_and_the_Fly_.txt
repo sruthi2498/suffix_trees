@@ -1,0 +1,4 @@
+301|0|a$fly$bit$the$bare$head$of$a$bald$man$who,$endeavoring$to$destroy$it,$gave$himself$a$heavy$slap.
+301|1|escaping,$the$fly$said$mockingly,$"you$who$have$wished$to$revenge,$even$with$death,$the$prick$of$a$tiny$insect,$see$what$you$have$done$to$yourself$to$add$insult$to$injury?'
+301|2|the$bald$man$replied,$"i$can$easily$make$peace$with$myself,$because$i$know$there$was$no$intention$to$hurt.
+301|3|but$you,$an$ill-favored$and$contemptible$insect$who$delights$in$sucking$human$blood,$i$wish$that$i$could$have$killed$you$even$if$i$had$incurred$a$heavier$penalty."

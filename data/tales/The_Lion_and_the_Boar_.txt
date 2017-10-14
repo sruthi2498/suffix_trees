@@ -1,0 +1,4 @@
+104|0|on$a$summer$day,$when$the$great$heat$induced$a$general$thirst$among$the$beasts,$a$lion$and$a$boar$came$at$the$same$moment$to$a$small$well$to$drink.
+104|1|they$fiercely$disputed$which$of$them$should$drink$first,$and$were$soon$engaged$in$the$agonies$of$a$mortal$combat.
+104|2|when$they$stopped$suddenly$to$catch$their$breath$for$a$fiercer$renewal$of$the$fight,$they$saw$some$vultures$waiting$in$the$distance$to$feast$on$the$one$that$should$fall$first.
+104|3|they$at$once$made$up$their$quarrel,$saying,$"it$is$better$for$us$to$make$friends,$than$to$become$the$food$of$crows$or$vultures."

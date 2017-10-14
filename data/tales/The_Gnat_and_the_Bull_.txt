@@ -1,0 +1,4 @@
+256|0|a$gnat$settled$on$the$horn$of$a$bull,$and$sat$there$a$long$time.
+256|1|just$as$he$was$about$to$fly$off,$he$made$a$buzzing$noise,$and$inquired$of$the$bull$if$he$would$like$him$to$go.
+256|2|the$bull$replied,$"i$did$not$know$you$had$come,$and$i$shall$not$miss$you$when$you$go$away."
+256|3|some$men$are$of$more$consequence$in$their$own$eyes$than$in$the$eyes$of$their$neighbors.

@@ -1,0 +1,8 @@
+108|0|the$weasels$and$the$mice$waged$a$perpetual$war$with$each$other,$in$which$much$blood$was$shed.
+108|1|the$weasels$were$always$the$victors.
+108|2|the$mice$thought$that$the$cause$of$their$frequent$defeats$was$that$they$had$no$leaders$set$apart$from$the$general$army$to$command$them,$and$that$they$were$exposed$to$dangers$from$lack$of$discipline.
+108|3|they$therefore$chose$as$leaders$mice$that$were$most$renowned$for$their$family$descent,$strength,$and$counsel,$as$well$as$those$most$noted$for$their$courage$in$the$fight,$so$that$they$might$be$better$marshaled$in$battle$array$and$formed$into$troops,$regiments,$and$battalions.
+108|4|when$all$this$was$done,$and$the$army$disciplined,$and$the$herald$mouse$had$duly$proclaimed$war$by$challenging$the$weasels,$the$newly$chosen$generals$bound$their$heads$with$straws,$that$they$might$be$more$conspicuous$to$all$their$troops.
+108|5|scarcely$had$the$battle$begun,$when$a$great$rout$overwhelmed$the$mice,$who$scampered$off$as$fast$as$they$could$to$their$holes.
+108|6|the$generals,$not$being$able$to$get$in$on$account$of$the$ornaments$on$their$heads,$were$all$captured$and$eaten$by$the$weasels.
+108|7|the$more$honor$the$more$danger.

@@ -1,0 +1,16 @@
+272|0|a$rich$nobleman$once$opened$the$theaters$without$charge$to$the$people,$and$gave$a$public$notice$that$he$would$handsomely$reward$any$person$who$invented$a$new$amusement$for$the$occasion.
+272|1|various$public$performers$contended$for$the$prize.
+272|2|among$them$came$a$buffoon$well$known$among$the$populace$for$his$jokes,$and$said$that$he$had$a$kind$of$entertainment$which$had$never$been$brought$out$on$any$stage$before.
+272|3|this$report$being$spread$about$made$a$great$stir,$and$the$theater$was$crowded$in$every$part.
+272|4|the$buffoon$appeared$alone$upon$the$platform,$without$any$apparatus$or$confederates,$and$the$very$sense$of$expectation$caused$an$intense$silence.
+272|5|he$suddenly$bent$his$head$towards$his$bosom$and$imitated$the$squeaking$of$a$little$pig$so$admirably$with$his$voice$that$the$audience$declared$he$had$a$porker$under$his$cloak,$and$demanded$that$it$should$be$shaken$out.
+272|6|when$that$was$done$and$nothing$was$found,$they$cheered$the$actor,$and$loaded$him$with$the$loudest$applause.
+272|7|a$countryman$in$the$crowd,$observing$all$that$has$passed,$said,$"so$help$me,$hercules,$he$shall$not$beat$me$at$that$trick!"
+272|8|and$at$once$proclaimed$that$he$would$do$the$same$thing$on$the$next$day,$though$in$a$much$more$natural$way.
+272|9|on$the$morrow$a$still$larger$crowd$assembled$in$the$theater,$but$now$partiality$for$their$favorite$actor$very$generally$prevailed,$and$the$audience$came$rather$to$ridicule$the$countryman$than$to$see$the$spectacle.
+272|10|both$of$the$performers$appeared$on$the$stage.
+272|11|the$buffoon$grunted$and$squeaked$away$first,$and$obtained,$as$on$the$preceding$day,$the$applause$and$cheers$of$the$spectators.
+272|12|next$the$countryman$commenced,$and$pretending$that$he$concealed$a$little$pig$beneath$his$clothes$(which$in$truth$he$did,$but$not$suspected$by$the$audience$)$contrived$to$take$hold$of$and$to$pull$his$ear$causing$the$pig$to$squeak.
+272|13|the$crowd,$however,$cried$out$with$one$consent$that$the$buffoon$had$given$a$far$more$exact$imitation,$and$clamored$for$the$countryman$to$be$kicked$out$of$the$theater.
+272|14|on$this$the$rustic$produced$the$little$pig$from$his$cloak$and$showed$by$the$most$positive$proof$the$greatness$of$their$mistake.
+272|15|"look$here,"$he$said,$"this$shows$what$sort$of$judges$you$are."

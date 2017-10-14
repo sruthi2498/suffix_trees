@@ -1,0 +1,3 @@
+154|0|a$hound$started$a$hare$from$his$lair,$but$after$a$long$run,$gave$up$the$chase.
+154|1|a$goat-herd$seeing$him$stop,$mocked$him,$saying$"the$little$one$is$the$best$runner$of$the$two."
+154|2|the$hound$replied,$"you$do$not$see$the$difference$between$us:$$i$was$only$running$for$a$dinner,$but$he$for$his$life."

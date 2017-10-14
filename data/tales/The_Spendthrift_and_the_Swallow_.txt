@@ -1,0 +1,7 @@
+237|0|a$young$man,$a$great$spendthrift,$had$run$through$all$his$patrimony$and$had$but$one$good$cloak$left.
+237|1|one$day$he$happened$to$see$a$swallow,$which$had$appeared$before$its$season,$skimming$along$a$pool$and$twittering$gaily.
+237|2|he$supposed$that$summer$had$come,$and$went$and$sold$his$cloak.
+237|3|not$many$days$later,$winter$set$in$again$with$renewed$frost$and$cold.
+237|4|when$he$found$the$unfortunate$swallow$lifeless$on$the$ground,$he$said,$"unhappy$bird!
+237|5|what$have$you$done?
+237|6|by$thus$appearing$before$the$springtime$you$have$not$only$killed$yourself,$but$you$have$wrought$my$destruction$also."

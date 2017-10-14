@@ -1,0 +1,6 @@
+38|0|a$miser$sold$all$that$he$had$and$bought$a$lump$of$gold,$which$he$buried$in$a$hole$in$the$ground$by$the$side$of$an$old$wall$and$went$to$look$at$daily.
+38|1|one$of$his$workmen$observed$his$frequent$visits$to$the$spot$and$decided$to$watch$his$movements.
+38|2|he$soon$discovered$the$secret$of$the$hidden$treasure,$and$digging$down,$came$to$the$lump$of$gold,$and$stole$it.
+38|3|the$miser,$on$his$next$visit,$found$the$hole$empty$and$began$to$tear$his$hair$and$to$make$loud$lamentations.
+38|4|a$neighbor,$seeing$him$overcome$with$grief$and$learning$the$cause,$said,$"pray$do$not$grieve$so;$but$go$and$take$a$stone,$and$place$it$in$the$hole,$and$fancy$that$the$gold$is$still$lying$there.
+38|5|it$will$do$you$quite$the$same$service;$for$when$the$gold$was$there,$you$had$it$not,$as$you$did$not$make$the$slightest$use$of$it."

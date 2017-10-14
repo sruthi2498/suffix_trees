@@ -1,0 +1,4 @@
+268|0|a$man$committed$a$murder,$and$was$pursued$by$the$relations$of$the$man$whom$he$murdered.
+268|1|on$his$reaching$the$river$nile$he$saw$a$lion$on$its$bank$and$being$fearfully$afraid,$climbed$up$a$tree.
+268|2|he$found$a$serpent$in$the$upper$branches$of$the$tree,$and$again$being$greatly$alarmed,$he$threw$himself$into$the$river,$where$a$crocodile$caught$him$and$ate$him.
+268|3|thus$the$earth,$the$air,$and$the$water$alike$refused$shelter$to$a$murderer.

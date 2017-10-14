@@ -1,0 +1,5 @@
+172|0|a$very$skillful$bowman$went$to$the$mountains$in$search$of$game,$but$all$the$beasts$of$the$forest$fled$at$his$approach.
+172|1|the$lion$alone$challenged$him$to$combat.
+172|2|the$bowman$immediately$shot$out$an$arrow$and$said$to$the$lion:$$"i$send$thee$my$messenger,$that$from$him$thou$mayest$learn$what$i$myself$shall$be$when$i$assail$thee."
+172|3|the$wounded$lion$rushed$away$in$great$fear,$and$when$a$fox$who$had$seen$it$all$happen$told$him$to$be$of$good$courage$and$not$to$back$off$at$the$first$attack$he$replied:$$"you$counsel$me$in$vain;$for$if$he$sends$so$fearful$a$messenger,$how$shall$i$abide$the$attack$of$the$man$himself?'
+172|4|be$on$guard$against$men$who$can$strike$from$a$distance.

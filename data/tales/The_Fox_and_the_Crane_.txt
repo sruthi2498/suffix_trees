@@ -1,0 +1,4 @@
+247|0|a$fox$invited$a$crane$to$supper$and$provided$nothing$for$his$entertainment$but$some$soup$made$of$pulse,$which$was$poured$out$into$a$broad$flat$stone$dish.
+247|1|the$soup$fell$out$of$the$long$bill$of$the$crane$at$every$mouthful,$and$his$vexation$at$not$being$able$to$eat$afforded$the$fox$much$amusement.
+247|2|the$crane,$in$his$turn,$asked$the$fox$to$sup$with$him,$and$set$before$her$a$flagon$with$a$long$narrow$mouth,$so$that$he$could$easily$insert$his$neck$and$enjoy$its$contents$at$his$leisure.
+247|3|the$fox,$unable$even$to$taste$it,$met$with$a$fitting$requital,$after$the$fashion$of$her$own$hospitality.

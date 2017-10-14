@@ -1,0 +1,7 @@
+146|0|a$bull$was$bitten$by$a$mouse$and,$angered$by$the$wound,$tried$to$capture$him.
+146|1|but$the$mouse$reached$his$hole$in$safety.
+146|2|though$the$bull$dug$into$the$walls$with$his$horns,$he$tired$before$he$could$rout$out$the$mouse,$and$crouching$down,$went$to$sleep$outside$the$hole.
+146|3|the$mouse$peeped$out,$crept$furtively$up$his$flank,$and$again$biting$him,$retreated$to$his$hole.
+146|4|the$bull$rising$up,$and$not$knowing$what$to$do,$was$sadly$perplexed.
+146|5|at$which$the$mouse$said,$"the$great$do$not$always$prevail.
+146|6|there$are$times$when$the$small$and$lowly$are$the$strongest$to$do$mischief."

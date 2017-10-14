@@ -1,0 +1,3 @@
+155|0|a$traveler$wearied$from$a$long$journey$lay$down,$overcome$with$fatigue,$on$the$very$brink$of$a$deep$well.
+155|1|just$as$he$was$about$to$fall$into$the$water,$dame$fortune,$it$is$said,$appeared$to$him$and$waking$him$from$his$slumber$thus$addressed$him:$$"good$sir,$pray$wake$up:$$for$if$you$fall$into$the$well,$the$blame$will$be$thrown$on$me,$and$i$shall$get$an$ill$name$among$mortals;$for$i$find$that$men$are$sure$to$impute$their$calamities$to$me,$however$much$by$their$own$folly$they$have$really$brought$them$on$themselves."
+155|2|everyone$is$more$or$less$master$of$his$own$fate.

@@ -1,0 +1,7 @@
+294|0|two$mules$well-laden$with$packs$were$trudging$along.
+294|1|one$carried$panniers$filled$with$money,$the$other$sacks$weighted$with$grain.
+294|2|the$mule$carrying$the$treasure$walked$with$head$erect,$as$if$conscious$of$the$value$of$his$burden,$and$tossed$up$and$down$the$clear-toned$bells$fastened$to$his$neck.
+294|3|his$companion$followed$with$quiet$and$easy$step.
+294|4|all$of$a$sudden$robbers$rushed$upon$them$from$their$hiding-places,$and$in$the$scuffle$with$their$owners,$wounded$with$a$sword$the$mule$carrying$the$treasure,$which$they$greedily$seized$while$taking$no$notice$of$the$grain.
+294|5|the$mule$which$had$been$robbed$and$wounded$bewailed$his$misfortunes.
+294|6|the$other$replied,$"i$am$indeed$glad$that$i$was$thought$so$little$of,$for$i$have$lost$nothing,$nor$am$i$hurt$with$any$wound."

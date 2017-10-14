@@ -1,0 +1,10 @@
+32|0|a$fox$one$day$fell$into$a$deep$well$and$could$find$no$means$of$escape.
+32|1|a$goat,$overcome$with$thirst,$came$to$the$same$well,$and$seeing$the$fox,$inquired$if$the$water$was$good.
+32|2|concealing$his$sad$plight$under$a$merry$guise,$the$fox$indulged$in$a$lavish$praise$of$the$water,$saying$it$was$excellent$beyond$measure,$and$encouraging$him$to$descend.
+32|3|the$goat,$mindful$only$of$his$thirst,$thoughtlessly$jumped$down,$but$just$as$he$drank,$the$fox$informed$him$of$the$difficulty$they$were$both$in$and$suggested$a$scheme$for$their$common$escape.
+32|4|"if,"$said$he,$"you$will$place$your$forefeet$upon$the$wall$and$bend$your$head,$i$will$run$up$your$back$and$escape,$and$will$help$you$out$afterwards."
+32|5|the$goat$readily$assented$and$the$fox$leaped$upon$his$back.
+32|6|steadying$himself$with$the$goat's$horns,$he$safely$reached$the$mouth$of$the$well$and$made$off$as$fast$as$he$could.
+32|7|when$the$goat$upbraided$him$for$breaking$his$promise,$he$turned$around$and$cried$out,$"you$foolish$old$fellow!
+32|8|if$you$had$as$many$brains$in$your$head$as$you$have$hairs$in$your$beard,$you$would$never$have$gone$down$before$you$had$inspected$the$way$up,$nor$have$exposed$yourself$to$dangers$from$which$you$had$no$means$of$escape."
+32|9|look$before$you$leap.

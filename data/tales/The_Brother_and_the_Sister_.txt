@@ -1,0 +1,7 @@
+226|0|a$father$had$one$son$and$one$daughter,$the$former$remarkable$for$his$good$looks,$the$latter$for$her$extraordinary$ugliness.
+226|1|while$they$were$playing$one$day$as$children,$they$happened$by$chance$to$look$together$into$a$mirror$that$was$placed$on$their$mother's$chair.
+226|2|the$boy$congratulated$himself$on$his$good$looks;$the$girl$grew$angry,$and$could$not$bear$the$self-praises$of$her$brother,$interpreting$all$he$said$(and$how$could$she$do$otherwise?)
+226|3|into$reflection$on$herself.
+226|4|she$ran$off$to$her$father.
+226|5|to$be$avenged$on$her$brother,$and$spitefully$accused$him$of$having,$as$a$boy,$made$use$of$that$which$belonged$only$to$girls.
+226|6|the$father$embraced$them$both,$and$bestowing$his$kisses$and$affection$impartially$on$each,$said,$"i$wish$you$both$would$look$into$the$mirror$every$day:$$you,$my$son,$that$you$may$not$spoil$your$beauty$by$evil$conduct;$and$you,$my$daughter,$that$you$may$make$up$for$your$lack$of$beauty$by$your$virtues."
